@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2025-12-17T17:01:54.938759Z",
-  "revision": 202512180201,
+  "updatedAt": "2025-12-17T18:25:24.787342Z",
+  "revision": 202512180325,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_engineer/data",
   "files": {
     "2022_02_05": {
@@ -324,9 +324,9 @@
       "size": 45873
     },
     "2020_01·02_01": {
-      "originalHash": "5b17d6c39aa022843c1691e7b9c0fbbc",
-      "hash": "26df4669168dacd3d1708f68304e8d1d",
-      "size": 55645
+      "originalHash": "cacd54e5101818976be9981f671ff465",
+      "hash": "148709f789f6c3be2af755be9e72bc44",
+      "size": 55453
     },
     "2016_01_05": {
       "originalHash": "58155f5e3ed00c16d5b5676df8f3e7f7",
@@ -749,9 +749,9 @@
       "size": 8325
     },
     "summary_subjects": {
-      "originalHash": "fccfcc75c1840523a3d4db8790d3f7ae",
-      "hash": "7e519dc81fd41560fab977c787f61846",
-      "size": 17009
+      "originalHash": "fcba64699af6009983ae454b483c031b",
+      "hash": "a17759c8e33aed81b9ea0b6284ff234d",
+      "size": 17245
     },
     "circuit_theory_chapter_01": {
       "originalHash": "bdeeae84c2897d9890942125b57caa78",
@@ -769,9 +769,9 @@
       "size": 9925
     },
     "electrical_equipment_chapter_01": {
-      "originalHash": "abc5dda9e2e64d4195757650c4e7e850",
-      "hash": "0c1857383caac453094035a44911b50d",
-      "size": 13957
+      "originalHash": "a329bafac8af725d0df7d98f795071dd",
+      "hash": "f44a2b25abfb254c9a4e016be476c612",
+      "size": 13893
     },
     "circuit_theory_chapter_10": {
       "originalHash": "702f5c6d6b178956b304141a2b392d6e",
