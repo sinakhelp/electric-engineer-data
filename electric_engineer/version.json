@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2025-12-20T11:22:25.796652Z",
-  "revision": 202512202022,
+  "updatedAt": "2025-12-20T11:26:07.553994Z",
+  "revision": 202512202026,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_engineer/data",
   "files": {
     "2022_02_05": {
@@ -749,8 +749,8 @@
       "size": 12928
     },
     "circuit_theory_chapter_01": {
-      "originalHash": "92ae1d5e1548d7a8b527d8271c8d415d",
-      "hash": "894781d381959666723485953b1c2c3f",
+      "originalHash": "9882f760cf9524a552b08015e5d2450f",
+      "hash": "45a46f83072edf7d2c48d5e092dd0c99",
       "size": 3552
     },
     "electromagnetics_chapter_11": {
