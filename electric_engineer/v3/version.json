@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2025-12-21T17:36:49.247477Z",
-  "revision": 202512220236,
+  "updatedAt": "2025-12-22T10:13:19.684133Z",
+  "revision": 202512221913,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_engineer/v3/data",
   "files": {
     "questions_2022_02_05": {
@@ -84,9 +84,9 @@
       "size": 30416
     },
     "questions_2017_01_04": {
-      "originalHash": "8e4115a3b456958fc25d1296c98d12ea",
-      "hash": "317e73df8a228bf8d0b049b625695969",
-      "size": 26784
+      "originalHash": "71528e84a4b46f3dd82c3f18ee86cd4f",
+      "hash": "25b49399ec4b1060723d9ee562f84137",
+      "size": 27648
     },
     "questions_2018_03_05": {
       "originalHash": "ca7da327463ba5ecf480286920d22a9d",
@@ -229,9 +229,9 @@
       "size": 25632
     },
     "questions_2017_01_02": {
-      "originalHash": "4e02a9118600dcb1b4e38181f5939bb1",
-      "hash": "a2c5d7b83379525bf873ac72e9c7a622",
-      "size": 27904
+      "originalHash": "dd6a5812c9c5fa8ed136b38f4c38c024",
+      "hash": "c7100a3f5663cb1e5e2869d7aef359d3",
+      "size": 28256
     },
     "questions_2021_02_01": {
       "originalHash": "88cf8f05141078772a5853b53dfc80f9",
@@ -289,9 +289,9 @@
       "size": 20032
     },
     "questions_2017_01_01": {
-      "originalHash": "a99122f00a3051255d22ba991ec8fbd2",
-      "hash": "d87b9f6ed8b48771e0aaaaa76e3b689c",
-      "size": 34368
+      "originalHash": "1cd5066410a787445276182c753724db",
+      "hash": "636f4d71ee7ad13ce050273448bac51f",
+      "size": 35984
     },
     "questions_2016_02_02": {
       "originalHash": "ef32b8b3db984106389e4613b69a4224",
