@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2025-12-22T11:38:18.907300Z",
-  "revision": 202512222038,
+  "updatedAt": "2025-12-22T20:26:04.329125Z",
+  "revision": 202512230526,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_technician/v3/data",
   "files": {
-    "questions_2024_01_01": {
+    "2024_01_01": {
       "originalHash": "fc29f9c06246b659658c6b719bf3f473",
       "hash": "c2c62e7e09043cf586b3d798dc21c3fa",
       "size": 1424
     },
-    "questions_2024_01_04": {
+    "2024_01_04": {
       "originalHash": "00cde621281698a0d832b8e99c61c47b",
       "hash": "ca437bd8b5a43a2d4246b0c1b7e66877",
       "size": 832
     },
-    "questions_2024_01_03": {
+    "2024_01_03": {
       "originalHash": "4da4ea5b3900739d29a86fc2023f7ac5",
       "hash": "51aa517041ee5e1e539c2bcfa7913ff9",
       "size": 704
     },
-    "questions_2024_01_02": {
+    "2024_01_02": {
       "originalHash": "2320e27a4cc9398f34542f67f0b4f20f",
       "hash": "294e424999b65040795a711204ce3e10",
       "size": 736
