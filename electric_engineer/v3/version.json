@@ -1,824 +1,824 @@
 {
-  "updatedAt": "2025-12-22T14:56:53.525742Z",
-  "revision": 202512222356,
+  "updatedAt": "2025-12-22T16:00:05.322046Z",
+  "revision": 202512230100,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_engineer/v3/data",
   "files": {
-    "questions_2022_02_05": {
+    "2022_02_05": {
       "originalHash": "0acaab06e960b0317fe8fb60293dac77",
       "hash": "d3f965220dda4e15089eb3c57b242c00",
       "size": 20704
     },
-    "questions_2022_01_03": {
+    "2022_01_03": {
       "originalHash": "d7c838ec371117675641a04b18d822c7",
       "hash": "57e30a9aeb984fcb7b452908b3fd0234",
       "size": 31376
     },
-    "questions_2020_01·02_04": {
+    "2020_01·02_04": {
       "originalHash": "f60dac4f3ddd8bc40ff310634440731b",
       "hash": "31d3dd1064e95d4f8005fcffe851bfd2",
       "size": 37168
     },
-    "questions_2017_02_03": {
+    "2017_02_03": {
       "originalHash": "339c850f70d54fcb0d3414a0f1eaec82",
       "hash": "00bbeb3cd6f2c55b9bdf2c1d33eb7951",
       "size": 25456
     },
-    "questions_2018_03_04": {
+    "2018_03_04": {
       "originalHash": "5d36be81157d88757d187929bcacef2f",
       "hash": "5918ecf4dfb896cddbcd9683745ac0cc",
       "size": 22400
     },
-    "questions_2017_01_05": {
+    "2017_01_05": {
       "originalHash": "0374b2150eb4f06e23406fb2095bbf88",
       "hash": "fbf9dcdb3cf5028cf6b8ccd7b38e40bf",
       "size": 20320
     },
-    "questions_2019_03_01": {
+    "2019_03_01": {
       "originalHash": "909f3f68c87b4f9cf701d5042c4ad55f",
       "hash": "8348c829472a3ae617d3a58975e44f6b",
       "size": 30912
     },
-    "questions_2018_01_03": {
+    "2018_01_03": {
       "originalHash": "7a202df3dce51165e0500759ddb08c90",
       "hash": "c5f13f60b369417f3510e000efd62cc9",
       "size": 27824
     },
-    "questions_2020_03_02": {
+    "2020_03_02": {
       "originalHash": "d65243c969cb5b53e9727d3bbb532027",
       "hash": "d9caf5d9368f439b5fb9071014a3166c",
       "size": 35344
     },
-    "questions_2017_03_02": {
+    "2017_03_02": {
       "originalHash": "a4129d3eaed7da547880bc01713d000b",
       "hash": "d37091aebc6e46c100532cbc42220974",
       "size": 24064
     },
-    "questions_2018_02_05": {
+    "2018_02_05": {
       "originalHash": "863b43cec72e1c14590cc96448b12da9",
       "hash": "0f8d694e55499ed6fd42bdc34088c221",
       "size": 20032
     },
-    "questions_2018_02_04": {
+    "2018_02_04": {
       "originalHash": "88fdd0b1b076e517c5d8c9c0d2a62d94",
       "hash": "642eeed7d71f6497f04ac0894361c473",
       "size": 33392
     },
-    "questions_2020_03_03": {
+    "2020_03_03": {
       "originalHash": "a7160afafb0f3d3b488504a571679a7e",
       "hash": "6114da100a37d6d43cc34b8d1cbc224e",
       "size": 34496
     },
-    "questions_2017_03_03": {
+    "2017_03_03": {
       "originalHash": "c079d502bfeaeb059bae39a3e763de47",
       "hash": "6df616ca5e2065feaa3cbc79dd1651d7",
       "size": 25968
     },
-    "questions_2019_02_01": {
+    "2019_02_01": {
       "originalHash": "d7490729d1762e3783994f4bd9fa0813",
       "hash": "fdb1b91c81515ac93358ecd59a811345",
       "size": 25712
     },
-    "questions_2018_01_02": {
+    "2018_01_02": {
       "originalHash": "78e67033bcc574a1f590985cfa509034",
       "hash": "9939bb9d478bd2925a2052ce6a01c7b8",
       "size": 30416
     },
-    "questions_2017_01_04": {
+    "2017_01_04": {
       "originalHash": "224860d41575046cb13c9f4a5ac7906d",
       "hash": "6c0077022167acc9353b60b0485fa26a",
       "size": 27616
     },
-    "questions_2018_03_05": {
+    "2018_03_05": {
       "originalHash": "ca7da327463ba5ecf480286920d22a9d",
       "hash": "fd032e6bbc61f8228a68fd5037dfef3b",
       "size": 20256
     },
-    "questions_2021_01_01": {
+    "2021_01_01": {
       "originalHash": "f3c2d55b9b5cb84ab69ff57d0c0c9010",
       "hash": "3a648f391432e900ca4b54dd47fb76e5",
       "size": 33408
     },
-    "questions_2016_01_01": {
+    "2016_01_01": {
       "originalHash": "1200dfd5f460deada1ec68b741a1e0fe",
       "hash": "8703347395269ce79f55675fe2848f06",
       "size": 36240
     },
-    "questions_2017_02_02": {
+    "2017_02_02": {
       "originalHash": "41298d06e481531d292314830d9cf9d6",
       "hash": "6e3223ffcc1b38e2a9ab659a8891b9a5",
       "size": 25872
     },
-    "questions_2020_01·02_05": {
+    "2020_01·02_05": {
       "originalHash": "24f52c7f77d2a1764fa89a19e92f9d5b",
       "hash": "fcfc1bf9a2e769d29ed4f235870d5b66",
       "size": 21744
     },
-    "questions_2022_01_02": {
+    "2022_01_02": {
       "originalHash": "d50f8df61dcf785b9b561cca48c774f6",
       "hash": "63ba763cd521ea61f434b8d30c5162f0",
       "size": 28960
     },
-    "questions_2022_02_04": {
+    "2022_02_04": {
       "originalHash": "8956c19dd0cf7440ecd7cdd38bf54e5c",
       "hash": "9a5dc7929cffab00439558abb21d9e04",
       "size": 29808
     },
-    "questions_2017_02_05": {
+    "2017_02_05": {
       "originalHash": "e9e5a3b9dc71fcf1a0cbbd17383e3238",
       "hash": "e077afb071824dd4c6c49fa820ecc6b2",
       "size": 20880
     },
-    "questions_2018_03_02": {
+    "2018_03_02": {
       "originalHash": "96c308d5da1df0435b27991f9360ffd9",
       "hash": "08b51bf2d7ac119f335ca7a328d5583f",
       "size": 22768
     },
-    "questions_2017_01_03": {
+    "2017_01_03": {
       "originalHash": "e73630c3e147db7fba6c9d107a706c73",
       "hash": "6b9c5447fe83da1e6384e04b93d98711",
       "size": 27184
     },
-    "questions_2016_03_01": {
+    "2016_03_01": {
       "originalHash": "41a73b0856fa856b4c0c4e27bb28b298",
       "hash": "c3786b0dd7d66bbfad3261b65e6331e7",
       "size": 27792
     },
-    "questions_2018_01_05": {
+    "2018_01_05": {
       "originalHash": "a2b38b49bdd2c287e433340c6df43eea",
       "hash": "92c565234626514206c41364464e619a",
       "size": 22176
     },
-    "questions_2021_03_01": {
+    "2021_03_01": {
       "originalHash": "c3394d97fb80722cc9b1de053fd7352c",
       "hash": "78c20e45bbea34dc090e15aa095e12c9",
       "size": 30544
     },
-    "questions_2020_03_04": {
+    "2020_03_04": {
       "originalHash": "867156e464984b7e33f0e71d990f94fc",
       "hash": "87f1c418edaae9e612edf530cb2bee37",
       "size": 27072
     },
-    "questions_2017_03_04": {
+    "2017_03_04": {
       "originalHash": "e0e09656166cbc3c07410a03840d1426",
       "hash": "0ed2bd16b571579b94e85d4b16b3371c",
       "size": 27216
     },
-    "questions_2018_02_03": {
+    "2018_02_03": {
       "originalHash": "7df5e44690b8af1b7f1d8a2b4ccffd02",
       "hash": "407f5a51f7b5839687a791d9b7210997",
       "size": 32192
     },
-    "questions_2022_02_03": {
+    "2022_02_03": {
       "originalHash": "ef3d57d126d82e0e17128ad2dc04ace0",
       "hash": "1bc2adc2cc31bf1f2b54ff0af9a72e6b",
       "size": 33104
     },
-    "questions_2022_01_05": {
+    "2022_01_05": {
       "originalHash": "e0f78fdb305264f2fd970d50c93a203e",
       "hash": "301dac226e97c3409515c41b00864d0b",
       "size": 20064
     },
-    "questions_2020_01·02_02": {
+    "2020_01·02_02": {
       "originalHash": "73d2c0ec13885ab43aa5e12df396f09b",
       "hash": "1c0233be82991647f3fde19a2e77a229",
       "size": 37424
     },
-    "questions_2020_01·02_03": {
+    "2020_01·02_03": {
       "originalHash": "3886a5223b48d2144d60c8ab9e52adcf",
       "hash": "97a3db518b41e9ec38b0d2655617575a",
       "size": 35520
     },
-    "questions_2022_01_04": {
+    "2022_01_04": {
       "originalHash": "0d843b1c31f41acfe71ffca5d0dac247",
       "hash": "be09eb34341fb967a9d47deb69ab090f",
       "size": 28752
     },
-    "questions_2022_02_02": {
+    "2022_02_02": {
       "originalHash": "c903574da36810856632d4f2fbcf26fe",
       "hash": "06e96202064678b088c6ed5cc61dde43",
       "size": 31056
     },
-    "questions_2020_04_01": {
+    "2020_04_01": {
       "originalHash": "72fa3c1db0112a319a70deb4be4e5f73",
       "hash": "6849325594c6398a9d1d402aadbab25c",
       "size": 31104
     },
-    "questions_2018_02_02": {
+    "2018_02_02": {
       "originalHash": "6463433e7fae61638ece5de42779cd69",
       "hash": "9d7b76bedb8fd3082770e91b9fc2a175",
       "size": 30336
     },
-    "questions_2020_03_05": {
+    "2020_03_05": {
       "originalHash": "1830cbead271b10376db277970c2f4eb",
       "hash": "0008f3f13b5aa4b92e075225f8b8c77f",
       "size": 21136
     },
-    "questions_2019_01_01": {
+    "2019_01_01": {
       "originalHash": "d61e879d4575a8134435cfaea7dfa239",
       "hash": "cee4b73c6105ed3d637ba0b13c8cda8c",
       "size": 24528
     },
-    "questions_2017_03_05": {
+    "2017_03_05": {
       "originalHash": "0152a12a3880697a892f9bdf987bd26d",
       "hash": "bda6f0eb2b7cd85632a6bea17ced52bd",
       "size": 20608
     },
-    "questions_2018_01_04": {
+    "2018_01_04": {
       "originalHash": "8e7b8e008ce478214c78dcbf64f67630",
       "hash": "bca2972b75af584c4bf559b3c1c62b81",
       "size": 25632
     },
-    "questions_2017_01_02": {
+    "2017_01_02": {
       "originalHash": "dd6a5812c9c5fa8ed136b38f4c38c024",
       "hash": "c7100a3f5663cb1e5e2869d7aef359d3",
       "size": 28256
     },
-    "questions_2021_02_01": {
+    "2021_02_01": {
       "originalHash": "88cf8f05141078772a5853b53dfc80f9",
       "hash": "20b73412818958cb71c87448296bf54a",
       "size": 32016
     },
-    "questions_2016_02_01": {
+    "2016_02_01": {
       "originalHash": "87366c5001eec48d1bf851422ca53281",
       "hash": "1f6d3c5fdf3b4e08bf0d66e9a86a4cb1",
       "size": 27168
     },
-    "questions_2018_03_03": {
+    "2018_03_03": {
       "originalHash": "652da6c35f80ef4c58137c1cf9c9e8af",
       "hash": "ff695f73f6b98a8cc511256998863e6e",
       "size": 23568
     },
-    "questions_2017_02_04": {
+    "2017_02_04": {
       "originalHash": "f77668cde0ffba18f4e5e1f5a6886b22",
       "hash": "9c61d9780b8c081846679fce5123e700",
       "size": 25680
     },
-    "questions_2018_02_01": {
+    "2018_02_01": {
       "originalHash": "2fd379a9fdefc7a791e4c64f438c47de",
       "hash": "4ad86ac17113e0502c66999d9660647d",
       "size": 34480
     },
-    "questions_2020_04_02": {
+    "2020_04_02": {
       "originalHash": "78a55f2f5bfd0cd14bce21e0d409a759",
       "hash": "cba0fc73052287df9ddf07f8de90d6c9",
       "size": 29424
     },
-    "questions_2019_01_02": {
+    "2019_01_02": {
       "originalHash": "4445bc23cdd8f800f6dc5f49a3f07326",
       "hash": "a63afb645f9a3b3c5f4eca981992dac7",
       "size": 22768
     },
-    "questions_2019_02_04": {
+    "2019_02_04": {
       "originalHash": "971bc141f124ee4c281ecbfcdf10b182",
       "hash": "d6ff65d21b799df5008c9c8779da2870",
       "size": 28976
     },
-    "questions_2021_03_03": {
+    "2021_03_03": {
       "originalHash": "71f5fea82adb6a6566f6709a8ca602c1",
       "hash": "c48af1d4fbc91a853149820bf26250ad",
       "size": 27984
     },
-    "questions_2016_03_03": {
+    "2016_03_03": {
       "originalHash": "1a952e3ac496305001b22dec5e7c2953",
       "hash": "9901b724abef2219e8e5dba9f3798ace",
       "size": 24336
     },
-    "questions_2019_03_05": {
+    "2019_03_05": {
       "originalHash": "0e748217883228c3719d4bad99ee521c",
       "hash": "03691161a9a9015ceb69ef4c13b6215b",
       "size": 20032
     },
-    "questions_2017_01_01": {
+    "2017_01_01": {
       "originalHash": "1cd5066410a787445276182c753724db",
       "hash": "636f4d71ee7ad13ce050273448bac51f",
       "size": 35984
     },
-    "questions_2016_02_02": {
+    "2016_02_02": {
       "originalHash": "ef32b8b3db984106389e4613b69a4224",
       "hash": "c61f9c4ff0ed4dcf7314ca56451afca0",
       "size": 25184
     },
-    "questions_2021_02_02": {
+    "2021_02_02": {
       "originalHash": "568000075f223ebf43454c5b03283e70",
       "hash": "e748f43e7c5c80a2614f6eedaee60d66",
       "size": 35472
     },
-    "questions_2016_01_04": {
+    "2016_01_04": {
       "originalHash": "f1ab9c2d2f31f81c6d5019c637c1d994",
       "hash": "a5932fd3a2a99dbbf6df3e2a930f669b",
       "size": 29696
     },
-    "questions_2021_01_04": {
+    "2021_01_04": {
       "originalHash": "5107c3274aa08585d9b0e7a43aa73df4",
       "hash": "18c5cd455a8c45964254dba7f7fae347",
       "size": 28512
     },
-    "questions_2022_02_01": {
+    "2022_02_01": {
       "originalHash": "5c27d48f15a5cedefd0ff29d6c310f40",
       "hash": "d39f4dbffcda4f08f13507a7cd4e9cd4",
       "size": 35568
     },
-    "questions_2020_01·02_01": {
-      "originalHash": "5ec49cf3d425d5630e1622789d986f55",
-      "hash": "0ab03a96d01d713b3e0e2c8562169ce1",
+    "2020_01·02_01": {
+      "originalHash": "cb151b8fa2a1b683a5e64007a924bcf0",
+      "hash": "9e52e1fb3077fb3328e35e3e263b4244",
       "size": 41584
     },
-    "questions_2016_01_05": {
+    "2016_01_05": {
       "originalHash": "c84470771f4cfb40edeb64c0093a2766",
       "hash": "d981888c4d417031ce27abdf9107c157",
       "size": 20992
     },
-    "questions_2018_03_01": {
+    "2018_03_01": {
       "originalHash": "9b75d7dc34e4434853f480b28b940e84",
       "hash": "5e69e04f037237406ea05bbfba62682a",
       "size": 29168
     },
-    "questions_2021_01_05": {
+    "2021_01_05": {
       "originalHash": "b469dc478d157cf8fd3be9681ad43342",
       "hash": "ffa7a266317b17bf31847c5a3d358b5b",
       "size": 21200
     },
-    "questions_2016_02_03": {
+    "2016_02_03": {
       "originalHash": "c425a83421c8ea9483153184efa72106",
       "hash": "64f576486e5df424178b31f157e0f3cf",
       "size": 27584
     },
-    "questions_2021_02_03": {
+    "2021_02_03": {
       "originalHash": "16e3a6b941dcd71607b967cfdd1e9dfb",
       "hash": "04181e0055424f8917be6eaf64a90921",
       "size": 32656
     },
-    "questions_2019_03_04": {
+    "2019_03_04": {
       "originalHash": "13c2cc02f7eb7b3f45084ca30b3b0c31",
       "hash": "38a816000aaca6b3dde53ed86ec99c89",
       "size": 28288
     },
-    "questions_2021_03_02": {
+    "2021_03_02": {
       "originalHash": "471808ac2d03032428add5f3ff50f7fd",
       "hash": "64301f73b645a80c6b86b93ed3d86c14",
       "size": 30880
     },
-    "questions_2016_03_02": {
+    "2016_03_02": {
       "originalHash": "8561eb83f2c74dd48445f58419bf02e1",
       "hash": "34f0867e1fdeb584e7cdcc0b25408c2d",
       "size": 26352
     },
-    "questions_2019_02_05": {
+    "2019_02_05": {
       "originalHash": "2fb7b59dee14f793e3ddde142eb51d7b",
       "hash": "de032e66fc36477a9d4c0f408c9aef81",
       "size": 21888
     },
-    "questions_2019_01_03": {
+    "2019_01_03": {
       "originalHash": "e631ac315d3a55f80585d668ec6aaedb",
       "hash": "b8b19f6ad3807ebf35ce8611ae4474ea",
       "size": 21136
     },
-    "questions_2020_04_03": {
+    "2020_04_03": {
       "originalHash": "6c6f3ba092d720eac3aba20cdc820235",
       "hash": "a3c246a5037207d394c7e444382d88fa",
       "size": 28736
     },
-    "questions_2022_01_01": {
+    "2022_01_01": {
       "originalHash": "0e53f8df9a6e911183ba0af8570333d2",
       "hash": "76663afabecfcde58c3713e8b9896b63",
       "size": 35232
     },
-    "questions_2020_04_04": {
+    "2020_04_04": {
       "originalHash": "b4b40ad846eed7fbc761d22154b15bfa",
       "hash": "4399b9af4c39273c173bfedb3f2290f8",
       "size": 30016
     },
-    "questions_2019_01_04": {
+    "2019_01_04": {
       "originalHash": "66f9598293ca9b7ec4585c7c1617b65c",
       "hash": "c0f24fbbaeb87cb45c11b1ff4f1641e6",
       "size": 22944
     },
-    "questions_2019_02_02": {
+    "2019_02_02": {
       "originalHash": "fd4ed2acaf771aa2b6d6816d62b09d55",
       "hash": "65a06b44cf3d4015de7adbc8a9410e50",
       "size": 29472
     },
-    "questions_2018_01_01": {
+    "2018_01_01": {
       "originalHash": "d8edd5750533737434cb91cdfd10b42b",
       "hash": "3c74a2517baa6def20554815f95a24d3",
       "size": 25520
     },
-    "questions_2021_03_05": {
+    "2021_03_05": {
       "originalHash": "22bb1f402873aecccedfbde3c8460a0d",
       "hash": "cef0593bd3b6028d9134eddc06258f9d",
       "size": 21168
     },
-    "questions_2016_03_05": {
+    "2016_03_05": {
       "originalHash": "80b89b5913c96d13b20962bbe226af4c",
       "hash": "acd069700a6a04afb0041e2176094084",
       "size": 21328
     },
-    "questions_2019_03_03": {
+    "2019_03_03": {
       "originalHash": "04bf7e0b60337b3298e8aa807f519c51",
       "hash": "2e9c124523f72f882f5a07de937196d5",
       "size": 30448
     },
-    "questions_2016_02_04": {
+    "2016_02_04": {
       "originalHash": "e0c956c37884584a4f9299ec0363e323",
       "hash": "ad6b445222aa11453280f0fa047140c4",
       "size": 27456
     },
-    "questions_2021_02_04": {
+    "2021_02_04": {
       "originalHash": "bdb9cfe61137fe8446437b0ce5d9492f",
       "hash": "d689fdd8df43e64416855179a348eeb8",
       "size": 33248
     },
-    "questions_2016_01_02": {
+    "2016_01_02": {
       "originalHash": "fdaff25e988422f37433c299e7a4f086",
       "hash": "5fdc2d579da9de0ae73a3f496a2266c8",
       "size": 30016
     },
-    "questions_2021_01_02": {
+    "2021_01_02": {
       "originalHash": "ed40f5a717005c9bddf2cb152b51f27b",
       "hash": "20680c716d147b036a040cba3b707e5d",
       "size": 28656
     },
-    "questions_2017_02_01": {
+    "2017_02_01": {
       "originalHash": "f4bd6d9bf396c8bd0f7c4d82e8c15230",
       "hash": "72012c97056ee2d2a4c5e4bae1f5f959",
       "size": 35056
     },
-    "questions_2016_01_03": {
+    "2016_01_03": {
       "originalHash": "53f1cf1e16148aa6e6c65ae4e1dc6136",
       "hash": "d0787d1390840f2d89621fd982a7e63b",
       "size": 27696
     },
-    "questions_2021_01_03": {
+    "2021_01_03": {
       "originalHash": "dd67691f2afe1a2974618df1d86db8aa",
       "hash": "5c082fef5a34ac5942973174b3ec207c",
       "size": 29440
     },
-    "questions_2016_02_05": {
+    "2016_02_05": {
       "originalHash": "6b18347b4521936c4cd08ac0104a3e86",
       "hash": "7090e386c0a744dee3d1cc483217d159",
       "size": 20768
     },
-    "questions_2021_02_05": {
+    "2021_02_05": {
       "originalHash": "e327fc661c43e7f5e10f24f3d7075bd3",
       "hash": "d4eee99712080ef7a901b19a29c21c61",
       "size": 20848
     },
-    "questions_2019_03_02": {
+    "2019_03_02": {
       "originalHash": "24db0e8c886eff9389450e56b72309df",
       "hash": "c0e45c4c57328b8467326c3c60f89641",
       "size": 26800
     },
-    "questions_2021_03_04": {
+    "2021_03_04": {
       "originalHash": "7b1e29950d583364eeccf8f05ab3548c",
       "hash": "0bc88746d5fbf52fbff15d8778eea3e7",
       "size": 24288
     },
-    "questions_2016_03_04": {
+    "2016_03_04": {
       "originalHash": "eb120b78d1b916ae39afb3ff58c0828c",
       "hash": "8bb81141e1ea10f562f001cfe6a33e9a",
       "size": 24752
     },
-    "questions_2019_02_03": {
+    "2019_02_03": {
       "originalHash": "45fdd966de23a5917ec12dcce49e3c3d",
       "hash": "8b024e0d68f9fe9be8e9129412e93198",
       "size": 28976
     },
-    "questions_2017_03_01": {
+    "2017_03_01": {
       "originalHash": "cea86c69af0b8740fa338d14e72578d9",
       "hash": "774db25073850ceb36d1740dc7a2376b",
       "size": 29472
     },
-    "questions_2020_03_01": {
+    "2020_03_01": {
       "originalHash": "6db1e7cef9862a16d16d9ac92371fd5f",
       "hash": "11530d737620797707b14ca31b38abfe",
       "size": 35312
     },
-    "questions_2019_01_05": {
+    "2019_01_05": {
       "originalHash": "59e96d89e1c238502764783515bde28a",
       "hash": "938a5159aeefa6c84382715e54c0d599",
       "size": 20672
     },
-    "questions_2020_04_05": {
+    "2020_04_05": {
       "originalHash": "c76bc668bf4d9cb1f9ad873c630b3d96",
       "hash": "8a7c955183f16ffabe8dc4c5b4cc6eb7",
       "size": 21440
     },
-    "summary_control_engineering_chapter_05": {
+    "control_engineering_chapter_05": {
       "originalHash": "8f7832c3a0a7eeb74c0dd9432fdbd885",
       "hash": "cf3ed5f60815235e1d733c847a3c94a0",
       "size": 2400
     },
-    "summary_electrical_machines_chapter_05": {
+    "electrical_machines_chapter_05": {
       "originalHash": "e9aacaed9ab4f649c413f17f4c68c862",
       "hash": "9ab88bf1393b6989662dad58bb56e783",
       "size": 7728
     },
-    "summary_power_engineering_chapter_03": {
+    "power_engineering_chapter_03": {
       "originalHash": "4e1f3fd8b38618881fbf8da4c5010f4a",
       "hash": "aa06537572ba13c4b0cecbf62e9d3cff",
       "size": 6944
     },
-    "summary_circuit_theory_chapter_04": {
+    "circuit_theory_chapter_04": {
       "originalHash": "b16c35c779fd1863891048bfd9b3a481",
       "hash": "e2b5f18ddb153a9d2a7c2393a2eac15c",
       "size": 5344
     },
-    "summary_circuit_theory_chapter_12": {
+    "circuit_theory_chapter_12": {
       "originalHash": "0d3e4df7c3ef5063e9bab85294c3dd25",
       "hash": "130207f1fec372efc5c5e8c32b19f902",
       "size": 6592
     },
-    "summary_electromagnetics_chapter_02": {
+    "electromagnetics_chapter_02": {
       "originalHash": "d9f68141ab1f214a486ccde2996c1eb7",
       "hash": "8f8126760caeb0bc3d55511f1fa405cb",
       "size": 5616
     },
-    "summary_electrical_equipment_chapter_04": {
+    "electrical_equipment_chapter_04": {
       "originalHash": "cec17730568547186e23a12540585466",
       "hash": "54fb55a269860ba62156adbbfe863499",
       "size": 21552
     },
-    "summary_control_engineering_chapter_09": {
+    "control_engineering_chapter_09": {
       "originalHash": "f89d1caffa0369344b69e1547cff1bba",
       "hash": "1dedc43f02b49ceee8d898e54d1284fe",
       "size": 2976
     },
-    "summary_circuit_theory_chapter_08": {
+    "circuit_theory_chapter_08": {
       "originalHash": "82119b4e94b448cb01b8b42ec055505a",
       "hash": "15247f2bf50fa77d4c2ba704c7381ad3",
       "size": 5552
     },
-    "summary_circuit_theory_chapter_09": {
+    "circuit_theory_chapter_09": {
       "originalHash": "afafc08a778f8c390204625eeafe7a1c",
       "hash": "1e6b2c92afff6626be7e0083ef8bcb82",
       "size": 3552
     },
-    "summary_control_engineering_chapter_08": {
+    "control_engineering_chapter_08": {
       "originalHash": "bc63a7838948891bba713c740d8c0878",
       "hash": "74bceca0d9b0b1263e8be5886415d6ec",
       "size": 2672
     },
-    "summary_electromagnetics_chapter_03": {
+    "electromagnetics_chapter_03": {
       "originalHash": "ea9aa757804b2e6a3ee3ae445ec2caad",
       "hash": "4b440f3683a28d42be8619b3e933f44e",
       "size": 10208
     },
-    "summary_circuit_theory_chapter_13": {
+    "circuit_theory_chapter_13": {
       "originalHash": "d3f6eb03d7c2d996654214e20a0fe4b4",
       "hash": "945d7dad4b5d9cc024b592c31f4e4e83",
       "size": 5200
     },
-    "summary_circuit_theory_chapter_05": {
+    "circuit_theory_chapter_05": {
       "originalHash": "65f8883dccac28d4fc1225498ccbbc73",
       "hash": "9aa0c080c0e43e387e9eea6139089dbe",
       "size": 4672
     },
-    "summary_electrical_machines_chapter_04": {
+    "electrical_machines_chapter_04": {
       "originalHash": "1af2c9785263df84c1121a80abf97323",
       "hash": "ef8cc2b313f4af89854d37c15e2e3eb2",
       "size": 11136
     },
-    "summary_power_engineering_chapter_02": {
+    "power_engineering_chapter_02": {
       "originalHash": "db4638290388ae6201946280b65521a8",
       "hash": "dde5afd28da5ced20ed8a8dad8523316",
       "size": 5936
     },
-    "summary_control_engineering_chapter_04": {
+    "control_engineering_chapter_04": {
       "originalHash": "bfa291626208e52cddfda639133f962a",
       "hash": "3b92bbc2d06def0296f6feaa4cb21399",
       "size": 3008
     },
-    "summary_power_engineering_chapter_14": {
+    "power_engineering_chapter_14": {
       "originalHash": "9382224dfe4d2a72110d4ee7e8e4e6ff",
       "hash": "885bd9ff27dee8dd92f55e309f864b9a",
       "size": 8880
     },
-    "summary_electrical_equipment_chapter_02": {
+    "electrical_equipment_chapter_02": {
       "originalHash": "585bc1e9ad76df6a008924e66ce7bdd1",
       "hash": "6e68f91066f07322c830d55287d1ee0e",
       "size": 4416
     },
-    "summary_power_engineering_chapter_09": {
+    "power_engineering_chapter_09": {
       "originalHash": "a2b01c6d157e4dd4dfe6e8f5a8d97ea9",
       "hash": "8f44fd5aa5cbd1f1c574ec3b1b090a88",
       "size": 6784
     },
-    "summary_electromagnetics_chapter_08": {
+    "electromagnetics_chapter_08": {
       "originalHash": "6f7002960ab6392774a9dffd7172ced9",
       "hash": "8c2be0ff595d71393b40935d00ad32c8",
       "size": 6224
     },
-    "summary_power_engineering_chapter_13": {
+    "power_engineering_chapter_13": {
       "originalHash": "59d8b3de673c8e006b111de70738b6b9",
       "hash": "c30d5401a9107f5ad2377f3c6f146e4f",
       "size": 2800
     },
-    "summary_control_engineering_chapter_03": {
+    "control_engineering_chapter_03": {
       "originalHash": "d39ee0a923e1a55dd63667caf0ecc3a4",
       "hash": "f7e7aeca2bf4bcbc482e6fcb96868f87",
       "size": 2784
     },
-    "summary_electrical_machines_chapter_03": {
+    "electrical_machines_chapter_03": {
       "originalHash": "6aea947a28a56b9156909b3d7fb3ca5c",
       "hash": "6f3fdf16ae665d39985a8c7d48c55e1f",
       "size": 6960
     },
-    "summary_power_engineering_chapter_05": {
+    "power_engineering_chapter_05": {
       "originalHash": "ebab0e39b6f4c5cd87b0a68574584423",
       "hash": "64754d11b62749db07aa2b57f166229c",
       "size": 6320
     },
-    "summary_circuit_theory_chapter_02": {
+    "circuit_theory_chapter_02": {
       "originalHash": "c48174f5c7ae6a39e4cef6b874ea720b",
       "hash": "103b33941265ab1823c035f66f4493a1",
       "size": 6144
     },
-    "summary_electromagnetics_chapter_12": {
+    "electromagnetics_chapter_12": {
       "originalHash": "b1a43ac7fa3024a174403b212476ba08",
       "hash": "fa79f792429419284967e9be965fe653",
       "size": 7664
     },
-    "summary_circuit_theory_chapter_14": {
+    "circuit_theory_chapter_14": {
       "originalHash": "315fa0a38613f99f833f3265af63af70",
       "hash": "2d4336d174c90e34ff64b0371ccdeaa6",
       "size": 5728
     },
-    "summary_electromagnetics_chapter_04": {
+    "electromagnetics_chapter_04": {
       "originalHash": "53e2332a840b99659014701c08d53ad4",
       "hash": "f7a16132e11aab4b9418f54c96115e22",
       "size": 7920
     },
-    "summary_electromagnetics_chapter_05": {
+    "electromagnetics_chapter_05": {
       "originalHash": "50836d23c6eb11b1699801b8b1f06101",
       "hash": "e3724ce529831c8dc8cd63a894047b7d",
       "size": 10048
     },
-    "summary_electromagnetics_chapter_13": {
+    "electromagnetics_chapter_13": {
       "originalHash": "2489d2ddd1a0887fd5ebc541822e41c7",
       "hash": "8fe2c4bb617875465eec0d0057205d88",
       "size": 10832
     },
-    "summary_circuit_theory_chapter_03": {
+    "circuit_theory_chapter_03": {
       "originalHash": "61a99d15a34c2cd2cdf75f910df7382d",
       "hash": "c833be93d29b15444c2758ca8a9f28c5",
       "size": 11648
     },
-    "summary_electrical_machines_chapter_02": {
+    "electrical_machines_chapter_02": {
       "originalHash": "4b10be5de423d6f25dc91fa3cfb319b3",
       "hash": "9b39a7ce767deb66d2c2122dfabf990e",
       "size": 5168
     },
-    "summary_power_engineering_chapter_04": {
+    "power_engineering_chapter_04": {
       "originalHash": "3218df772e015e549c9b59b395b849a4",
       "hash": "badb2bd2604b006d1120a233c2bdc28b",
       "size": 4656
     },
-    "summary_control_engineering_chapter_02": {
+    "control_engineering_chapter_02": {
       "originalHash": "515d95ce6a7cb5ffd454263b72a17a19",
       "hash": "1e24f64c33d07c4a08666f85512d3331",
       "size": 3584
     },
-    "summary_power_engineering_chapter_12": {
+    "power_engineering_chapter_12": {
       "originalHash": "25f5167970eac32f04e2766a7149a455",
       "hash": "4becd866cbdee9a4e719873e32f279d3",
       "size": 4368
     },
-    "summary_electromagnetics_chapter_09": {
+    "electromagnetics_chapter_09": {
       "originalHash": "a2ddf6c3d8e9f5cff4a3a4cb1dd0d762",
       "hash": "d5db9a99c7a91737e08f3952e2b673c9",
       "size": 6368
     },
-    "summary_power_engineering_chapter_08": {
+    "power_engineering_chapter_08": {
       "originalHash": "8a1e635becdb9dfd8dbc6c5e24f7241d",
       "hash": "3d8e90af18fb452aaeea2ce33a2a84e1",
       "size": 5936
     },
-    "summary_electrical_equipment_chapter_03": {
+    "electrical_equipment_chapter_03": {
       "originalHash": "3c10972270640b690943d7c26851dc73",
       "hash": "5684bbdc94ed24eb122dac82de03ed68",
       "size": 17120
     },
-    "summary_electromagnetics_chapter_06": {
+    "electromagnetics_chapter_06": {
       "originalHash": "982c756a948d50689b76afaa2f297e62",
       "hash": "da96a2af995ef2536d4ea73b1c0a873b",
       "size": 6288
     },
-    "summary_subjects": {
+    "subjects": {
       "originalHash": "abe17b7b398d0b6e128d132530d1d034",
       "hash": "bc602d4665fa449ef8738c3b5d3f2434",
       "size": 1392
     },
-    "summary_electromagnetics_chapter_10": {
+    "electromagnetics_chapter_10": {
       "originalHash": "66e882f1316b0321cca4461690633c1a",
       "hash": "d334182ee32a65cb6d390ee8d9d467b1",
       "size": 3792
     },
-    "summary_power_engineering_chapter_07": {
+    "power_engineering_chapter_07": {
       "originalHash": "bceaf943eb94c7a63743379a06acfbf4",
       "hash": "7d7db83e77b7939db69d776055fca7f5",
       "size": 6608
     },
-    "summary_electrical_machines_chapter_01": {
+    "electrical_machines_chapter_01": {
       "originalHash": "a8662c0040c3cad12bae08f7e2cb9c98",
       "hash": "790ccf0c962246f76fa3824697d32e7c",
       "size": 6304
     },
-    "summary_control_engineering_chapter_01": {
+    "control_engineering_chapter_01": {
       "originalHash": "bf16fae8d325790c94a793a4a3ad2680",
       "hash": "f3cc926c89b9fe348a457c9bcd2b38bd",
       "size": 3936
     },
-    "summary_power_engineering_chapter_11": {
+    "power_engineering_chapter_11": {
       "originalHash": "88c6235cbe468254cfb1e9005f298c90",
       "hash": "03719b0d20f3d4934f9bc68476e61b06",
       "size": 4848
     },
-    "summary_power_engineering_chapter_10": {
+    "power_engineering_chapter_10": {
       "originalHash": "810ed38f1a2e4403595d760f9be3dbce",
       "hash": "4e2e71d6fb92e6ced5e015b7575e2022",
       "size": 4880
     },
-    "summary_power_engineering_chapter_06": {
+    "power_engineering_chapter_06": {
       "originalHash": "fd52a84220699f3eb1d9f506b2a9635e",
       "hash": "fd6547c3feddc037cb7897fc9bf858ed",
       "size": 6240
     },
-    "summary_summary_subjects": {
+    "summary_subjects": {
       "originalHash": "fcba64699af6009983ae454b483c031b",
       "hash": "83459f195427e999e8913d89ca14c8f5",
       "size": 12928
     },
-    "summary_circuit_theory_chapter_01": {
+    "circuit_theory_chapter_01": {
       "originalHash": "9882f760cf9524a552b08015e5d2450f",
       "hash": "45a46f83072edf7d2c48d5e092dd0c99",
       "size": 3552
     },
-    "summary_electromagnetics_chapter_11": {
+    "electromagnetics_chapter_11": {
       "originalHash": "00ece439e0c846467d175f3a55330a4b",
       "hash": "8fc6adcbc977ca5e62cfe45bec09d3b7",
       "size": 3168
     },
-    "summary_electromagnetics_chapter_07": {
+    "electromagnetics_chapter_07": {
       "originalHash": "a2cb97c70286f6e75902926574bd6ab3",
       "hash": "1060411bd71c96cb485c56cf6bed2259",
       "size": 7440
     },
-    "summary_electrical_equipment_chapter_01": {
+    "electrical_equipment_chapter_01": {
       "originalHash": "a329bafac8af725d0df7d98f795071dd",
       "hash": "9312041f2bfa7b39567c399cbc6f32e1",
       "size": 10416
     },
-    "summary_circuit_theory_chapter_10": {
+    "circuit_theory_chapter_10": {
       "originalHash": "702f5c6d6b178956b304141a2b392d6e",
       "hash": "846bda07487d1350d0e439f6bcbe22bd",
       "size": 4256
     },
-    "summary_circuit_theory_chapter_06": {
+    "circuit_theory_chapter_06": {
       "originalHash": "3c141953c4ec04c1c7ad7b0de36ea367",
       "hash": "a28f933e91b5eadba10d379f5ff2189a",
       "size": 5344
     },
-    "summary_power_engineering_chapter_01": {
+    "power_engineering_chapter_01": {
       "originalHash": "65e9530e42e927d5d7c64aeb92cb3a42",
       "hash": "74f3716e1c3cf0eccf2a60415f88e8fa",
       "size": 6368
     },
-    "summary_electrical_machines_chapter_07": {
+    "electrical_machines_chapter_07": {
       "originalHash": "93c2fa737329e247de91994852cab0b3",
       "hash": "2df1d38a13182d7e9853e6515abc7b72",
       "size": 6528
     },
-    "summary_control_engineering_chapter_07": {
+    "control_engineering_chapter_07": {
       "originalHash": "161c49a2a34b6377209050471434ad8a",
       "hash": "b1856b1fb3cb246b04185edaad73c610",
       "size": 2096
     },
-    "summary_control_engineering_chapter_10": {
+    "control_engineering_chapter_10": {
       "originalHash": "50ea48c3d2591a71efdeed30815286f5",
       "hash": "68a6373bd18a093b7b4bc397e0d83c31",
       "size": 1920
     },
-    "summary_control_engineering_chapter_06": {
+    "control_engineering_chapter_06": {
       "originalHash": "3b34cde19fe251b10a7388ed09d7eba3",
       "hash": "f385af9af8c40ca8d7e6cad1a1f1e541",
       "size": 2656
     },
-    "summary_electrical_machines_chapter_06": {
+    "electrical_machines_chapter_06": {
       "originalHash": "46082c767fac67a4e594918b6177c5ce",
       "hash": "57671dc01524b5a7f18b1d6ef14fbc3b",
       "size": 7872
     },
-    "summary_circuit_theory_chapter_07": {
+    "circuit_theory_chapter_07": {
       "originalHash": "f6208449ad70dbcfdf22abae6c18b806",
       "hash": "3bbb0c035d53cc2688cfb936c2841f8e",
       "size": 3648
     },
-    "summary_circuit_theory_chapter_11": {
+    "circuit_theory_chapter_11": {
       "originalHash": "8729a3d6c3943275cf8c4ff9d93e5cba",
       "hash": "51edb5da908e624a6c1643213f23ab7d",
       "size": 5536
     },
-    "summary_electromagnetics_chapter_01": {
+    "electromagnetics_chapter_01": {
       "originalHash": "de074d907a9dd0ac5277928fb69bcc6a",
       "hash": "e0324a3eec466adc0d98577cbb9aa956",
       "size": 11344
