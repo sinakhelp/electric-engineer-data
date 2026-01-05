@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-01-04T16:20:54.850879Z",
-  "revision": 202601050120,
+  "updatedAt": "2026-01-05T15:32:07.392539Z",
+  "revision": 202601060032,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_engineer/v3/data",
   "files": {
     "2022_02_05": {
@@ -189,9 +189,9 @@
       "size": 35552
     },
     "2022_01_04": {
-      "originalHash": "b97dbd73217a2dbf3583957f21f41f16",
-      "hash": "6857ce2938cced2d764e783d7becc68e",
-      "size": 34000
+      "originalHash": "358ca5ee998ce873cf4bf3a4fd4c17d8",
+      "hash": "8f7c04c1573be7978e8a27129d6efa91",
+      "size": 44864
     },
     "2022_02_02": {
       "originalHash": "53caa6d366ab5507b9e2c973ecf10533",
@@ -424,9 +424,9 @@
       "size": 27456
     },
     "2021_02_04": {
-      "originalHash": "035ddc5409bd170c3e8f5f765b766703",
-      "hash": "cbae8399b77a86b9d3b4f437e73161bd",
-      "size": 33328
+      "originalHash": "a581907d3d17962824fd12c71339c5fc",
+      "hash": "5f8f164a00e1436c88c1933b9b5d76ba",
+      "size": 33568
     },
     "2016_01_02": {
       "originalHash": "fdaff25e988422f37433c299e7a4f086",
@@ -434,8 +434,8 @@
       "size": 30016
     },
     "2021_01_02": {
-      "originalHash": "ed40f5a717005c9bddf2cb152b51f27b",
-      "hash": "20680c716d147b036a040cba3b707e5d",
+      "originalHash": "c66f520c44f6877a711ec36f23f1d71e",
+      "hash": "6701374b18584a57e452ac31cf82ca73",
       "size": 28656
     },
     "2017_02_01": {
@@ -744,8 +744,8 @@
       "size": 6240
     },
     "summary_subjects": {
-      "originalHash": "fcba64699af6009983ae454b483c031b",
-      "hash": "83459f195427e999e8913d89ca14c8f5",
+      "originalHash": "93ee4ee989f3028c68d823444f7f28a3",
+      "hash": "28139e059221c587d14e54d9d3c2ddf2",
       "size": 12928
     },
     "circuit_theory_chapter_01": {
@@ -764,9 +764,9 @@
       "size": 7440
     },
     "electrical_equipment_chapter_01": {
-      "originalHash": "a329bafac8af725d0df7d98f795071dd",
-      "hash": "9312041f2bfa7b39567c399cbc6f32e1",
-      "size": 10416
+      "originalHash": "f8631279158d4f1d7d1c81774d745cfb",
+      "hash": "9c2668bb9076e00794c1ec3a1fd78745",
+      "size": 5424
     },
     "circuit_theory_chapter_10": {
       "originalHash": "702f5c6d6b178956b304141a2b392d6e",
