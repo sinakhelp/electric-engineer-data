@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-01-07T20:11:58.493242Z",
-  "revision": 202601080511,
+  "updatedAt": "2026-01-07T21:42:15.843206Z",
+  "revision": 202601080642,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_engineer/v3/data",
   "files": {
     "2022_02_05": {
@@ -99,9 +99,9 @@
       "size": 33424
     },
     "2016_01_01": {
-      "originalHash": "b6221629f3e15b8e06061818209279f0",
-      "hash": "0466e66626ea195a0a48dca9c87ff93c",
-      "size": 44096
+      "originalHash": "5adc18e18cef3016e236e766f11ccb84",
+      "hash": "a9dcaef67a41c123393e880edfc370d5",
+      "size": 43984
     },
     "2017_02_02": {
       "originalHash": "3b32137ea893a9d0b607ff7cc63d31e7",
@@ -139,9 +139,9 @@
       "size": 27392
     },
     "2016_03_01": {
-      "originalHash": "473e2f3f6677eaa15c05d5b91d817c12",
-      "hash": "4949249259c469b29d9ab6e642d21fb0",
-      "size": 33440
+      "originalHash": "91fc6844ca23ea2b3da57700f913e4f4",
+      "hash": "c8e18c1e44834f51e2d7c91eacf8f53a",
+      "size": 32544
     },
     "2018_01_05": {
       "originalHash": "2ba2f7236b646fb46dd846729e313e75",
@@ -279,9 +279,9 @@
       "size": 28016
     },
     "2016_03_03": {
-      "originalHash": "74d8070320092c2aed8c771afeae022f",
-      "hash": "7d6a02289fc11f442b421b2b898ef3ec",
-      "size": 30800
+      "originalHash": "e678a55d5179826b8968014b6a90c622",
+      "hash": "c9767fe4eef5f66618a00c99c52c8795",
+      "size": 28704
     },
     "2019_03_05": {
       "originalHash": "0e748217883228c3719d4bad99ee521c",
@@ -294,9 +294,9 @@
       "size": 36016
     },
     "2016_02_02": {
-      "originalHash": "2051917c4b4ec23029358220b4b62385",
-      "hash": "5c3a23c78459070c9200e1bd6d453f06",
-      "size": 31696
+      "originalHash": "6972d04a7b0d3dbaaeb8e936cf894563",
+      "hash": "84f25afd9be5d3a22f7c450aef8de1e9",
+      "size": 31680
     },
     "2021_02_02": {
       "originalHash": "43e47bb4cc438a482ee4e841079822c3",
@@ -304,9 +304,9 @@
       "size": 35472
     },
     "2016_01_04": {
-      "originalHash": "d375c66d225a8e5a952d14a90664b616",
-      "hash": "6e9aeec390124618849f29260596a1a1",
-      "size": 40512
+      "originalHash": "781fe66fd72aa69f10c664b4493c4761",
+      "hash": "46b6e5655a26f8deb8b8f13df2fb6fef",
+      "size": 40816
     },
     "2021_01_04": {
       "originalHash": "4d6333d39dfb785218c2f9ead0ef25dd",
@@ -339,9 +339,9 @@
       "size": 21200
     },
     "2016_02_03": {
-      "originalHash": "44ace7228e56c539ac927adf732b25ee",
-      "hash": "9f0c55be82268873e7c7fb8fa4cbefac",
-      "size": 32464
+      "originalHash": "f3990613ab3296092850ff9987a5db37",
+      "hash": "df67bacca221b2220ba341489993ff2a",
+      "size": 32448
     },
     "2021_02_03": {
       "originalHash": "a1eacaed94a3a5a1bf215c6f55eb01c4",
@@ -359,9 +359,9 @@
       "size": 30896
     },
     "2016_03_02": {
-      "originalHash": "595e77fceeba0983282ee26b7f11dfd6",
-      "hash": "3c0e95cbf02bed80121791eb55472518",
-      "size": 31232
+      "originalHash": "355089055001da5b340cd660e49e74b7",
+      "hash": "f808effb34998be60cb1ae2c500f4846",
+      "size": 31728
     },
     "2019_02_05": {
       "originalHash": "0bd380b6242f9db73ba43e0c05c567d8",
@@ -419,9 +419,9 @@
       "size": 30432
     },
     "2016_02_04": {
-      "originalHash": "d5d2a9351ceb43881b2334ebf15d5939",
-      "hash": "19a1533b37165aa533180696e5cec115",
-      "size": 30288
+      "originalHash": "8488cf7288e92fd378dfb582c1fcf6d2",
+      "hash": "e72734cb803450a679dc266cb4b054e3",
+      "size": 30304
     },
     "2021_02_04": {
       "originalHash": "a581907d3d17962824fd12c71339c5fc",
@@ -429,9 +429,9 @@
       "size": 33568
     },
     "2016_01_02": {
-      "originalHash": "2f1519c5f9e0541daab25fe0c6ad2ba5",
-      "hash": "0089d2e497210d3cc805c748930e202d",
-      "size": 38816
+      "originalHash": "70284b6dc338a140d0cf086fe0ab755a",
+      "hash": "eff8cbf2c2f44483d2cb337ef80a4465",
+      "size": 39008
     },
     "2021_01_02": {
       "originalHash": "c66f520c44f6877a711ec36f23f1d71e",
@@ -444,9 +444,9 @@
       "size": 35056
     },
     "2016_01_03": {
-      "originalHash": "9478543e5c91e4f92b12e04e4d4fbd2b",
-      "hash": "afeb7deab80a3491eae1095618d9aeed",
-      "size": 36784
+      "originalHash": "8723bc6f0668f54c686362fd03292760",
+      "hash": "5b637dacc05b798bbd04a5d7c140c85e",
+      "size": 36992
     },
     "2021_01_03": {
       "originalHash": "7e76a4c23374350c78572819f2185e45",
@@ -474,9 +474,9 @@
       "size": 24368
     },
     "2016_03_04": {
-      "originalHash": "6af7dca69c6d775c171593972a2916d6",
-      "hash": "be59fb652bc541aa57c0033e366a83fd",
-      "size": 29936
+      "originalHash": "e0d92072be571c5c144e9a7c88447756",
+      "hash": "d3743d49705ea7b71c990d275586fd82",
+      "size": 30304
     },
     "2019_02_03": {
       "originalHash": "7c55ff6c38868064733bf68e1bf8fdb9",
