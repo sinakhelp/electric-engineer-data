@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-01-08T09:22:51.738264Z",
-  "revision": 202601081822,
+  "updatedAt": "2026-01-08T09:58:55.884865Z",
+  "revision": 202601081858,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_engineer/v3/data",
   "files": {
     "2022_02_05": {
@@ -539,9 +539,9 @@
       "size": 5616
     },
     "electrical_equipment_chapter_04": {
-      "originalHash": "65c1a401575e64658a737fb9b6afe0c3",
-      "hash": "fec30bf8e8674ca78a8efeaae07c38e8",
-      "size": 2016
+      "originalHash": "76f4da0897e5a1b76a8ed642c410ce94",
+      "hash": "7af319d5f225b3492d287c7ad1af255a",
+      "size": 2656
     },
     "control_engineering_chapter_09": {
       "originalHash": "f89d1caffa0369344b69e1547cff1bba",
@@ -804,14 +804,14 @@
       "size": 2096
     },
     "electrical_equipment_chapter_06": {
-      "originalHash": "fdd5e84176915cc4db1be96548620c2a",
-      "hash": "962b751fe336369ef3030f1110d5bca1",
-      "size": 560
+      "originalHash": "6b5836891ed5bf185b574eaf2d300b78",
+      "hash": "c8fb731a76ee7277f6f2803226eefa45",
+      "size": 4864
     },
     "electrical_equipment_chapter_07": {
-      "originalHash": "6b6a4e2ad5fd84ce86ed4b2d7e4681c3",
-      "hash": "c6b6690396a600052cdf0c164e1b818b",
-      "size": 592
+      "originalHash": "85919454c8183cbcb95d7cf7f42211b3",
+      "hash": "f2211567ed9ba1dcfae021cc60a42470",
+      "size": 2208
     },
     "control_engineering_chapter_10": {
       "originalHash": "50ea48c3d2591a71efdeed30815286f5",
