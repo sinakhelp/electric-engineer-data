@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-01-20T03:37:18.139703Z",
-  "revision": 202601201237,
+  "updatedAt": "2026-01-20T06:34:55.288138Z",
+  "revision": 202601201534,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_engineer/v3/data",
   "files": {
     "2022_02_05": {
@@ -274,9 +274,9 @@
       "size": 32432
     },
     "2021_03_03": {
-      "originalHash": "8daf25323e444c610c99fe0e43618c4c",
-      "hash": "1ae8da1237528c2468540b04ccdf1136",
-      "size": 33360
+      "originalHash": "677e0affc15d7af7924fa94dfea7978a",
+      "hash": "6d31ff50c658a4d8e45ece624c25566d",
+      "size": 33568
     },
     "2016_03_03": {
       "originalHash": "e678a55d5179826b8968014b6a90c622",
@@ -354,9 +354,9 @@
       "size": 29456
     },
     "2021_03_02": {
-      "originalHash": "31c8c6b90aef188ba63cffebdc42cc7a",
-      "hash": "f035d9488af08a3aca35416e264660f5",
-      "size": 34320
+      "originalHash": "ae2da74d4b8a4c9950517627037c4e48",
+      "hash": "730f1da4a1bf2b382afb1a585af7dc4d",
+      "size": 33648
     },
     "2016_03_02": {
       "originalHash": "355089055001da5b340cd660e49e74b7",
@@ -469,9 +469,9 @@
       "size": 30288
     },
     "2021_03_04": {
-      "originalHash": "8155789cabd47da84302aa0b667fbaff",
-      "hash": "be091190c40dadf44f69b878780120f6",
-      "size": 29360
+      "originalHash": "4ff94d36780463ebcc81003019fb78ae",
+      "hash": "fb95d53ae01713f627207ce5e6d4b798",
+      "size": 33664
     },
     "2016_03_04": {
       "originalHash": "e0d92072be571c5c144e9a7c88447756",
@@ -1113,6 +1113,11 @@
       "hash": "b23290e029cdabae60e18724f1ceb3aa",
       "size": 40698
     },
+    "2021_03_065.webp": {
+      "originalHash": "d74697dc2b4bdfcba353e2cc78365ba9",
+      "hash": "d74697dc2b4bdfcba353e2cc78365ba9",
+      "size": 5212
+    },
     "2016_03_04_075.jpg": {
       "originalHash": "6238350f1298214592fff6ef77863ccb",
       "hash": "6238350f1298214592fff6ef77863ccb",
@@ -1282,11 +1287,6 @@
       "originalHash": "9874a535a6ad0b82cf9c23333c67e13b",
       "hash": "9874a535a6ad0b82cf9c23333c67e13b",
       "size": 13198
-    },
-    "2025_09_16_32f9cfdcd05310e5f74eg-6(1).jpg": {
-      "originalHash": "0d33d4292f150c69a2e72847a5e5e9fe",
-      "hash": "0d33d4292f150c69a2e72847a5e5e9fe",
-      "size": 13340
     },
     "2025_09_16_3f03122514d1e31eb13dg-6(3).jpg": {
       "originalHash": "37ae77d457e3232703b4d6ff40bce488",
