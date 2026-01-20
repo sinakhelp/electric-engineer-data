@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-01-20T13:08:05.982403Z",
-  "revision": 202601202208,
+  "updatedAt": "2026-01-20T16:23:00.110035Z",
+  "revision": 202601210123,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_engineer/v3/data",
   "files": {
     "2022_02_05": {
@@ -44,9 +44,9 @@
       "size": 30384
     },
     "2020_03_02": {
-      "originalHash": "affcfca3a46428b4865019fb47f4b704",
-      "hash": "ebcc8c433ded7682abb7b365ef465469",
-      "size": 34560
+      "originalHash": "46f7d1d5a88eaab9a6cf84783f074bcd",
+      "hash": "5e2865b47133a3bf6cd642671986f502",
+      "size": 35216
     },
     "2017_03_02": {
       "originalHash": "3252c7ced72525d39792574e57d34a33",
@@ -64,9 +64,9 @@
       "size": 33728
     },
     "2020_03_03": {
-      "originalHash": "268245d08ec6bc98b19859fbf5c4b47f",
-      "hash": "314c92f2e19d7ba0d96f479824ceb1ba",
-      "size": 34080
+      "originalHash": "0b97c13b8a6855a0bc8f494a514bbb24",
+      "hash": "90ae4817cb9815cc265733cc21e16669",
+      "size": 34256
     },
     "2017_03_03": {
       "originalHash": "2420de155f1e79cc7f62f34cc383f4c9",
@@ -489,9 +489,9 @@
       "size": 30672
     },
     "2020_03_01": {
-      "originalHash": "0c77c249927cceb74261478ed0e8e6ea",
-      "hash": "d30c10a035e68e90b0f4eba0bff039bd",
-      "size": 36704
+      "originalHash": "c3dea76081763516c555f66d36f14c04",
+      "hash": "e35b21d76019b6b43dc289ef737ccdb3",
+      "size": 42672
     },
     "2019_01_05": {
       "originalHash": "623b477792938867801f3553d36ae18d",
