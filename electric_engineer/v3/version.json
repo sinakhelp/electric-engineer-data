@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-01-22T19:31:17.273104Z",
-  "revision": 202601230431,
+  "updatedAt": "2026-01-23T08:49:13.252946Z",
+  "revision": 202601231749,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_engineer/v3/data",
   "files": {
     "2022_02_05": {
@@ -74,9 +74,9 @@
       "size": 25888
     },
     "2019_02_01": {
-      "originalHash": "ef942e8064649da4931d11b973b1df14",
-      "hash": "129001458ceb91a049bea4736b345a99",
-      "size": 32368
+      "originalHash": "6f4b4e4a7fc11b0a7dae742a392c9429",
+      "hash": "6074c845d683d38e3c095840504478ea",
+      "size": 30912
     },
     "2018_01_02": {
       "originalHash": "5bfdc2e5148e74fc4af8b5b3e59c0ef4",
@@ -269,9 +269,9 @@
       "size": 32256
     },
     "2019_02_04": {
-      "originalHash": "1fbc082987ae01044edceb7ffae7159f",
-      "hash": "a2ae58e9e420ce69313ee22182ed3b90",
-      "size": 32368
+      "originalHash": "447e58324ec7185163009eaf421a7ccb",
+      "hash": "68285ef503c7cdc827e2e6bdb5920050",
+      "size": 32288
     },
     "2021_03_03": {
       "originalHash": "677e0affc15d7af7924fa94dfea7978a",
@@ -364,8 +364,8 @@
       "size": 31728
     },
     "2019_02_05": {
-      "originalHash": "bda4a9cbdc39c7c407c8bf6c42c65877",
-      "hash": "f99f0763230f35f101e0fbe7290aa407",
+      "originalHash": "efec7bd7a2f6e7ed88c9e7ab458895a5",
+      "hash": "ff19c020b122565b5bd207e0e2364e3b",
       "size": 20736
     },
     "2019_01_03": {
@@ -394,9 +394,9 @@
       "size": 32880
     },
     "2019_02_02": {
-      "originalHash": "52266711df005784f843cba8f752c051",
-      "hash": "941617c255aa64669cd4f6d8b4d2c730",
-      "size": 33696
+      "originalHash": "1323f5e1fe7fe0696a7917293ff1a5a3",
+      "hash": "b01f2a9899b4abe7710e7f0bcdddbe88",
+      "size": 31328
     },
     "2018_01_01": {
       "originalHash": "5eec884f57da524e3540a9e0aceb12f4",
@@ -479,9 +479,9 @@
       "size": 30304
     },
     "2019_02_03": {
-      "originalHash": "f84ed04c3717799698e50ea2e330e080",
-      "hash": "5ca9dd7db6759bf100d9f91af8b0ff46",
-      "size": 32176
+      "originalHash": "46287da56a0c60bdbc48fb7baf1f210c",
+      "hash": "20fac7607d1c391f021aa75f93d10213",
+      "size": 31664
     },
     "2017_03_01": {
       "originalHash": "8886f71dcc69199fff5431c311189e29",
