@@ -1,0 +1,49 @@
+<svg width="480" height="180" viewBox="0 0 480 180" xmlns="http://www.w3.org/2000/svg">
+  <!-- 
+    Block Diagram Remaster (v4)
+    Ref: 2016_02_04_067.jpg
+    Changes:
+    1. Tightened right margin for better fit
+    2. Maintained clean design and clear C(S) label
+  -->
+
+  <rect width="480" height="180" fill="#ffffff"/>
+  
+  <style>
+    .line { fill: none; stroke: #000000; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+    .box { fill: #ffffff; stroke: #000000; stroke-width: 1.8; }
+    .label { font-family: Arial, sans-serif; font-size: 20px; fill: #000000; }
+    .dot { fill: #000000; }
+  </style>
+
+  <!-- Input Signal R(S) -->
+  <text x="30" y="55" class="label" text-anchor="middle">R(S)</text>
+  <line class="line" x1="20" x2="85" y1="80" y2="80"/>
+  <polygon points="85,80 77,76 77,84" fill="black"/>
+  <text x="78" y="62" class="label" text-anchor="middle">+</text>
+
+  <!-- Summing Junction (Summer) -->
+  <circle cx="100" cy="80" r="15" class="box"/>
+
+  <!-- Forward Path to Block -->
+  <line class="line" x1="115" x2="160" y1="80" y2="80"/>
+  <polygon points="160,80 152,76 152,84" fill="black"/>
+
+  <!-- Transfer Function Block -->
+  <rect x="160" y="35" width="120" height="90" class="box"/>
+  <line x1="175" y1="80" x2="265" y2="80" class="line" stroke-width="1.5"/>
+  <text x="220" y="65" class="label" text-anchor="middle">1</text>
+  <text x="220" y="110" class="label" text-anchor="middle">s(s+1)</text>
+
+  <!-- Output Path and C(S) -->
+  <line class="line" x1="280" x2="420" y1="80" y2="80"/>
+  <polygon points="420,80 412,76 412,84" fill="black"/>
+  <text x="428" y="105" class="label" text-anchor="start">C(S)</text>
+
+  <!-- Feedback Path -->
+  <circle cx="370" cy="80" r="3" class="dot"/>
+  <path class="line" d="M 370 80 L 370 150 L 100 150 L 100 95"/>
+  <polygon points="100,95 96,103 104,103" fill="black"/>
+  <text x="80" y="140" class="label" text-anchor="end">−</text>
+
+</svg>

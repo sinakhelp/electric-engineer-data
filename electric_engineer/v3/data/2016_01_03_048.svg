@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 350">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  
+  <style>
+    .line { fill: none; stroke: #000000; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+    .label { font-family: "Inter", "Segoe UI", Arial, sans-serif; font-size: 28px; font-weight: 500; fill: #000000; }
+    .terminal { fill: #ffffff; stroke: #000000; stroke-width: 2.5; }
+    .arrow { fill: #000000; }
+  </style>
+
+  <!-- Left Terminals and 3300V label -->
+  <circle cx="95" cy="50" r="7" class="terminal"/>
+  <circle cx="95" cy="300" r="7" class="terminal"/>
+  
+  <path class="line" d="M 95 65 L 95 140"/>
+  <path class="line" d="M 95 300 L 95 210"/>
+  <path d="M 95 58 L 90 70 L 100 70 Z" class="arrow"/>
+  <path d="M 95 307 L 90 295 L 100 295 Z" class="arrow"/>
+  <text x="115" y="185" class="label" text-anchor="end">3300V</text>
+
+  <!-- Connection to Primary -->
+  <path class="line" d="M 102 50 L 220 50"/>
+  <path class="line" d="M 102 300 L 220 300"/>
+
+  <!-- E1 Label and Arrows -->
+  <path class="line" d="M 150 65 L 150 135"/>
+  <path d="M 150 58 L 145 70 L 155 70 Z" class="arrow"/>
+  <path d="M 150 142 L 145 130 L 155 130 Z" class="arrow"/>
+  <text x="160" y="105" class="label">E₁</text>
+
+  <!-- Transformer 1 (Top) -->
+  <!-- Primary 1 (Left) -->
+  <path class="line" d="M 220 50 L 220 70"/>
+  <path class="line" d="M 220 70 C 205 70, 205 82, 220 82 C 205 82, 205 94, 220 94 C 205 94, 205 106, 220 106 C 205 106, 205 118, 220 118 C 205 118, 205 130, 220 130"/>
+  <path class="line" d="M 220 130 L 220 150"/>
+
+  <!-- Secondary 1 (Right) -->
+  <path class="line" d="M 260 50 L 260 70"/>
+  <path class="line" d="M 260 70 C 275 70, 275 82, 260 82 C 275 82, 275 94, 260 94 C 275 94, 275 106, 260 106 C 275 106, 275 118, 260 118 C 275 118, 275 130, 260 130"/>
+  <path class="line" d="M 260 130 L 260 150"/>
+  
+  <!-- Core 1 -->
+  <line x1="235" y1="60" x2="235" y2="140" stroke="#000000" stroke-width="1.5"/>
+  <line x1="245" y1="60" x2="245" y2="140" stroke="#000000" stroke-width="1.5"/>
+
+  <!-- Secondary 1 Loop to Resistor 5 ohm -->
+  <path class="line" d="M 260 50 L 370 50 L 370 80"/>
+  <path class="line" d="M 260 150 L 370 150 L 370 120"/>
+  <path class="line" d="M 370 80 L 360 85 L 380 90 L 360 95 L 380 100 L 360 105 L 380 110 L 360 115 L 370 120"/>
+  <text x="395" y="105" class="label">5Ω</text>
+
+  <!-- Primary Series Connection -->
+  <path class="line" d="M 220 150 L 130 150 L 130 200 L 220 200"/>
+
+  <!-- Transformer 2 (Bottom) -->
+  <!-- Primary 2 (Left) -->
+  <path class="line" d="M 220 200 L 220 220"/>
+  <path class="line" d="M 220 220 C 205 220, 205 232, 220 232 C 205 232, 205 244, 220 244 C 205 244, 205 256, 220 256 C 205 256, 205 268, 220 268 C 205 268, 205 280, 220 280"/>
+  <path class="line" d="M 220 280 L 220 300"/>
+
+  <!-- Secondary 2 (Right) -->
+  <path class="line" d="M 260 200 L 260 220"/>
+  <path class="line" d="M 260 220 C 275 220, 275 232, 260 232 C 275 232, 275 244, 260 244 C 275 244, 275 256, 260 256 C 275 256, 275 268, 260 268 C 275 268, 275 280, 260 280"/>
+  <path class="line" d="M 260 280 L 260 300"/>
+
+  <!-- Core 2 -->
+  <line x1="235" y1="210" x2="235" y2="290" stroke="#000000" stroke-width="1.5"/>
+  <line x1="245" y1="210" x2="245" y2="290" stroke="#000000" stroke-width="1.5"/>
+
+  <!-- Secondary 2 Loop to Resistor 7 ohm -->
+  <path class="line" d="M 260 200 L 370 200 L 370 230"/>
+  <path class="line" d="M 260 300 L 370 300 L 370 270"/>
+  <path class="line" d="M 370 230 L 360 235 L 380 240 L 360 245 L 380 250 L 360 255 L 380 260 L 360 265 L 370 270"/>
+  <text x="395" y="255" class="label">7Ω</text>
+
+</svg>

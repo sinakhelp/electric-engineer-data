@@ -1,0 +1,79 @@
+<svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 
+    Signal Flow Graph Remaster (v4)
+    Ref: 2016_02_04_062.jpg
+    Changes:
+    1. Feedback arrows (b) now point directly to the destination nodes
+    2. Maintained white background and optimized label positions
+  -->
+
+  <!-- White Background -->
+  <rect width="600" height="200" fill="#ffffff"/>
+
+  <style>
+    .line { fill: none; stroke: #000000; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    .node { fill: #ffffff; stroke: #000000; stroke-width: 2.2; }
+    .label { font-family: Arial, sans-serif; font-size: 24px; fill: #000000; font-weight: 400; }
+    .sub { font-size: 16px; }
+  </style>
+
+  <!-- Input/Output Labels -->
+  <text x="40" y="108" class="label" text-anchor="end">y<tspan dy="6" class="sub">1</tspan></text>
+  <text x="560" y="108" class="label" text-anchor="start">y<tspan dy="6" class="sub">2</tspan></text>
+
+  <!-- Forward Branches -->
+  <line x1="57" y1="100" x2="113" y2="100" class="line"/>
+  <polygon points="90,100 82,95 82,105" fill="black"/>
+  <text x="85" y="85" class="label" text-anchor="middle">1</text>
+
+  <line x1="127" y1="100" x2="183" y2="100" class="line"/>
+  <polygon points="160,100 152,95 152,105" fill="black"/>
+  <text x="155" y="85" class="label" text-anchor="middle">a</text>
+
+  <line x1="197" y1="100" x2="253" y2="100" class="line"/>
+  <polygon points="230,100 222,95 222,105" fill="black"/>
+  <text x="225" y="85" class="label" text-anchor="middle">1</text>
+
+  <line x1="267" y1="100" x2="323" y2="100" class="line"/>
+  <polygon points="300,100 292,95 292,105" fill="black"/>
+  <text x="295" y="85" class="label" text-anchor="middle">a</text>
+
+  <line x1="337" y1="100" x2="393" y2="100" class="line"/>
+  <polygon points="370,100 362,95 362,105" fill="black"/>
+  <text x="365" y="85" class="label" text-anchor="middle">1</text>
+
+  <line x1="407" y1="100" x2="463" y2="100" class="line"/>
+  <polygon points="440,100 432,95 432,105" fill="black"/>
+  <text x="435" y="85" class="label" text-anchor="middle">a</text>
+
+  <line x1="477" y1="100" x2="533" y2="100" class="line"/>
+  <polygon points="510,100 502,95 502,105" fill="black"/>
+  <text x="505" y="85" class="label" text-anchor="middle">1</text>
+
+  <!-- Feedback Branches -->
+  <!-- Loop 1 (3->2) -->
+  <path d="M 190 107 A 35 35 0 0 1 120 107" class="line"/>
+  <polygon points="120,107 114,116 126,116" fill="black"/>
+  <text x="155" y="175" class="label" text-anchor="middle">b</text>
+
+  <!-- Loop 2 (5->4) -->
+  <path d="M 330 107 A 35 35 0 0 1 260 107" class="line"/>
+  <polygon points="260,107 254,116 266,116" fill="black"/>
+  <text x="295" y="175" class="label" text-anchor="middle">b</text>
+
+  <!-- Loop 3 (7->6) -->
+  <path d="M 470 107 A 35 35 0 0 1 400 107" class="line"/>
+  <polygon points="400,107 394,116 406,116" fill="black"/>
+  <text x="435" y="175" class="label" text-anchor="middle">b</text>
+
+  <!-- Nodes (Drawn last) -->
+  <circle cx="50" cy="100" r="7" class="node"/>
+  <circle cx="120" cy="100" r="7" class="node"/>
+  <circle cx="190" cy="100" r="7" class="node"/>
+  <circle cx="260" cy="100" r="7" class="node"/>
+  <circle cx="330" cy="100" r="7" class="node"/>
+  <circle cx="400" cy="100" r="7" class="node"/>
+  <circle cx="470" cy="100" r="7" class="node"/>
+  <circle cx="540" cy="100" r="7" class="node"/>
+
+</svg>

@@ -1,0 +1,55 @@
+<svg width="380" height="150" viewBox="0 0 380 150" xmlns="http://www.w3.org/2000/svg">
+  <!-- 
+    Logic Circuit Remaster
+    Ref: 2016_01_04_065
+    Fixed overlapping/hidden 'X' label by expanding viewBox and adjusting position.
+  -->
+  
+  <rect width="380" height="150" fill="#ffffff"/>
+
+  <style>
+    .gate { fill: #ffffff; stroke: #000000; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    .wire { fill: none; stroke: #000000; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    .label { font-family: Arial, sans-serif; font-size: 20px; font-weight: 500; fill: #000000; }
+    .dot { fill: #000000; }
+    .terminal { fill: none; stroke: #000000; stroke-width: 1.5; }
+  </style>
+
+  <!-- Labels -->
+  <text x="10" y="35" class="label">A</text>
+  <text x="10" y="75" class="label">B</text>
+  <text x="350" y="113" class="label">X</text>
+
+  <!-- Input Terminals -->
+  <circle cx="40" cy="28" r="3" class="terminal"/>
+  <circle cx="40" cy="68" r="3" class="terminal"/>
+
+  <!-- Wires from terminals to gates -->
+  <path class="wire" d="M 43 28 L 95 28"/>
+  <path class="wire" d="M 43 68 L 95 68"/>
+  
+  <!-- B junction dot and branch to Gate 2 -->
+  <circle cx="70" cy="68" r="3" class="dot"/>
+  <path class="wire" d="M 70 68 L 70 128 L 245 128"/>
+
+  <!-- Gate 1 (NOR) -->
+  <g transform="translate(90, 20)">
+    <path class="gate" d="M 0 0 C 15 15 15 41 0 56 C 30 56 55 45 70 28 C 55 11 30 0 0 0 Z"/>
+    <circle cx="76" cy="28" r="6" class="gate"/>
+  </g>
+
+  <!-- Gate 2 (NOR) -->
+  <g transform="translate(240, 80)">
+    <path class="gate" d="M 0 0 C 15 15 15 41 0 56 C 30 56 55 45 70 28 C 55 11 30 0 0 0 Z"/>
+    <circle cx="76" cy="28" r="6" class="gate"/>
+  </g>
+
+  <!-- Gate 1 Output to Gate 2 Top -->
+  <!-- Output bubble edge at 90 + 76 + 6 = 172 -->
+  <path class="wire" d="M 172 48 L 210 48 L 210 88 L 245 88"/>
+  
+  <!-- Gate 2 Output to X -->
+  <!-- Output bubble edge at 240+76+6 = 322 -->
+  <path class="wire" d="M 322 108 L 345 108"/>
+
+</svg>

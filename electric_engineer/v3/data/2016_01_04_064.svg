@@ -1,0 +1,50 @@
+<svg width="600" height="150" viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="150" fill="white"/>
+  
+  <!-- Labels -->
+  <text x="50" y="40" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">r(t)</text>
+  <text x="560" y="40" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">C(t)</text>
+
+  <!-- Input Line -->
+  <line x1="20" y1="80" x2="80" y2="80" stroke="black" stroke-width="3"/>
+  
+  <!-- First Sampler (Switch) -->
+  <!-- The switch arm -->
+  <line x1="80" y1="80" x2="115" y2="45" stroke="black" stroke-width="2.5"/>
+  <!-- Simplified straight arrow for sampler action -->
+  <line x1="115" y1="55" x2="115" y2="75" stroke="black" stroke-width="2"/>
+  <polygon points="115,80 111,70 119,70" fill="black"/>
+  
+  <!-- Gap for sampler -->
+  <line x1="125" y1="80" x2="175" y2="80" stroke="black" stroke-width="3"/>
+  <polygon points="175,80 162,74 162,86" fill="black"/>
+
+  <!-- First Block: 1 / S+1 -->
+  <rect x="180" y="40" width="100" height="85" stroke="black" stroke-width="2.5" fill="none"/>
+  <text x="230" y="72" font-family="Arial, sans-serif" font-size="26" text-anchor="middle">1</text>
+  <line x1="190" y1="80" x2="270" y2="80" stroke="black" stroke-width="1.5"/>
+  <text x="230" y="112" font-family="Arial, sans-serif" font-size="26" text-anchor="middle">S+1</text>
+
+  <!-- Line to second sampler -->
+  <line x1="280" y1="80" x2="330" y2="80" stroke="black" stroke-width="3"/>
+
+  <!-- Second Sampler (Switch) -->
+  <line x1="330" y1="80" x2="365" y2="45" stroke="black" stroke-width="2.5"/>
+  <!-- Simplified straight arrow for sampler action -->
+  <line x1="365" y1="55" x2="365" y2="75" stroke="black" stroke-width="2"/>
+  <polygon points="365,80 361,70 369,70" fill="black"/>
+
+  <!-- Gap for sampler -->
+  <line x1="375" y1="80" x2="425" y2="80" stroke="black" stroke-width="3"/>
+  <polygon points="425,80 412,74 412,86" fill="black"/>
+
+  <!-- Second Block: 2 / S+2 -->
+  <rect x="430" y="40" width="100" height="85" stroke="black" stroke-width="2.5" fill="none"/>
+  <text x="480" y="72" font-family="Arial, sans-serif" font-size="26" text-anchor="middle">2</text>
+  <line x1="440" y1="80" x2="520" y2="80" stroke="black" stroke-width="1.5"/>
+  <text x="480" y="112" font-family="Arial, sans-serif" font-size="26" text-anchor="middle">S+2</text>
+
+  <!-- Output Line -->
+  <line x1="530" y1="80" x2="585" y2="80" stroke="black" stroke-width="3"/>
+  <polygon points="585,80 572,74 572,86" fill="black"/>
+</svg>

@@ -1,0 +1,27 @@
+<svg width="400" height="150" viewBox="0 0 400 150" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="150" fill="white"/>
+  
+  <!-- AC Generator Symbol (Circle with 3 wavy lines) -->
+  <g transform="translate(45, 20)">
+    <circle cx="50" cy="50" r="45" stroke="black" stroke-width="2.5" fill="none"/>
+    <!-- Three wavy lines -->
+    <path d="M 25,40 Q 37.5,30 50,40 Q 62.5,50 75,40" stroke="black" stroke-width="2.5" fill="none"/>
+    <path d="M 25,55 Q 37.5,45 50,55 Q 62.5,65 75,55" stroke="black" stroke-width="2.5" fill="none"/>
+    <path d="M 25,70 Q 37.5,60 50,70 Q 62.5,80 75,70" stroke="black" stroke-width="2.5" fill="none"/>
+  </g>
+  
+  <!-- Voltage label below generator -->
+  <text x="95" y="135" font-family="Arial, sans-serif" font-size="22" text-anchor="middle">22kV</text>
+
+  <!-- Horizontal line -->
+  <line x1="140" y1="70" x2="350" y2="70" stroke="black" stroke-width="2.5"/>
+
+  <!-- Fault Point P with X -->
+  <g transform="translate(320, 70)">
+    <!-- The X marks the spot -->
+    <line x1="-10" y1="-10" x2="10" y2="10" stroke="black" stroke-width="2.5"/>
+    <line x1="-10" y1="10" x2="10" y2="-10" stroke="black" stroke-width="2.5"/>
+    <!-- Letter P below -->
+    <text x="0" y="45" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">P</text>
+  </g>
+</svg>

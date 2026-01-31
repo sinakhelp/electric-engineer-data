@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 300">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  
+  <style>
+    .line { fill: none; stroke: #000000; stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; }
+    .box { fill: #ffffff; stroke: #000000; stroke-width: 2.2; }
+    .label { font-family: "Inter", "Segoe UI", Arial, sans-serif; font-size: 28px; font-weight: 500; fill: #000000; }
+    .dot { fill: #000000; }
+  </style>
+
+  <!-- Transformer Container Box -->
+  <rect x="120" y="40" width="220" height="180" class="box"/>
+
+  <!-- Labels -->
+  <text x="70" y="60" class="label" text-anchor="middle">1차</text>
+  <text x="390" y="60" class="label" text-anchor="middle">2차</text>
+
+  <!-- Primary (Left) -->
+  <line x1="20" y1="90" x2="160" y2="90" class="line"/>
+  <line x1="20" y1="170" x2="160" y2="170" class="line"/>
+  <!-- Looped Coil for Primary -->
+  <path class="line" d="M 160 90 C 175 90, 185 95, 185 100 C 185 110, 165 110, 165 100 C 165 95, 185 95, 185 110 C 185 125, 165 125, 165 110 C 165 105, 185 105, 185 120 C 185 135, 165 135, 165 120 C 165 115, 185 115, 185 130 C 185 145, 165 145, 165 130 C 165 125, 185 125, 185 140 C 185 155, 165 155, 165 140 C 165 135, 185 135, 185 150 C 185 165, 165 165, 165 150 C 165 145, 185 145, 185 160 C 185 170, 175 170, 160 170"/>
+
+  <!-- Secondary (Right) -->
+  <line x1="300" y1="90" x2="430" y2="90" class="line"/>
+  <line x1="300" y1="170" x2="430" y2="170" class="line"/>
+  <!-- Looped Coil for Secondary -->
+  <path class="line" d="M 300 90 C 285 90, 275 95, 275 100 C 275 110, 295 110, 295 100 C 295 95, 275 95, 275 110 C 275 125, 295 125, 295 110 C 295 105, 275 105, 275 120 C 275 135, 295 135, 295 120 C 295 115, 275 115, 275 130 C 275 145, 295 145, 295 130 C 295 125, 275 125, 275 140 C 275 155, 295 155, 295 140 C 295 135, 275 135, 275 150 C 275 165, 295 165, 295 150 C 295 145, 275 145, 275 160 C 275 170, 285 170, 300 170"/>
+
+  <!-- Grounding -->
+  <circle cx="380" cy="170" r="4" class="dot"/>
+  <line x1="380" y1="170" x2="380" y2="240" class="line"/>
+  <!-- Ground Symbol (/// style) -->
+  <line x1="340" y1="240" x2="420" y2="240" class="line"/>
+  <line x1="355" y1="240" x2="345" y2="260" class="line"/>
+  <line x1="365" y1="240" x2="355" y2="260" class="line"/>
+  <line x1="375" y1="240" x2="365" y2="260" class="line"/>
+  <line x1="385" y1="240" x2="375" y2="260" class="line"/>
+  <line x1="395" y1="240" x2="385" y2="260" class="line"/>
+  <line x1="405" y1="240" x2="395" y2="260" class="line"/>
+  <line x1="415" y1="240" x2="405" y2="260" class="line"/>
+  <line x1="425" y1="240" x2="415" y2="260" class="line"/>
+
+</svg>

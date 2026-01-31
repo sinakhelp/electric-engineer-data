@@ -1,0 +1,43 @@
+<svg width="500" height="200" viewBox="0 0 500 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="200" fill="white"/>
+  
+  <g stroke="black" stroke-width="2.2" fill="none">
+    <!-- Horizontal Path Nodes -->
+    <circle cx="70" cy="100" r="5" fill="white"/>
+    <circle cx="160" cy="100" r="5" fill="white"/>
+    <circle cx="250" cy="100" r="5" fill="white"/>
+    <circle cx="340" cy="100" r="5" fill="white"/>
+    <circle cx="430" cy="100" r="5" fill="white"/>
+
+    <!-- Labels for Nodes -->
+    <text x="60" y="110" font-family="Arial, sans-serif" font-size="28" text-anchor="end" stroke="none" fill="black">R(s)</text>
+    <text x="440" y="110" font-family="Arial, sans-serif" font-size="28" text-anchor="start" stroke="none" fill="black">C(s)</text>
+
+    <!-- Main Path Lines with Arrows -->
+    <line x1="75" y1="100" x2="155" y2="100"/>
+    <polygon points="120,100 110,95 110,105" fill="black" stroke="none"/>
+    <text x="115" y="85" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" stroke="none" fill="black">1</text>
+
+    <line x1="165" y1="100" x2="245" y2="100"/>
+    <polygon points="210,100 200,95 200,105" fill="black" stroke="none"/>
+    <text x="205" y="85" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" stroke="none" fill="black">a</text>
+
+    <line x1="255" y1="100" x2="335" y2="100"/>
+    <polygon points="300,100 290,95 290,105" fill="black" stroke="none"/>
+    <text x="295" y="85" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" stroke="none" fill="black">b</text>
+
+    <line x1="345" y1="100" x2="425" y2="100"/>
+    <polygon points="390,100 380,95 380,105" fill="black" stroke="none"/>
+    <text x="385" y="85" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" stroke="none" fill="black">1</text>
+
+    <!-- Top Feedback Loop (Node 4 to Node 3) -->
+    <path d="M 340,95 C 340,40 250,40 250,95"/>
+    <polygon points="295,54 305,59 305,49" fill="black" stroke="none"/>
+    <text x="295" y="35" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" stroke="none" fill="black">4</text>
+
+    <!-- Bottom Feedback Loop (Node 4 to Node 2) -->
+    <path d="M 340,105 C 340,175 160,175 160,105"/>
+    <polygon points="250,158 260,153 260,163" fill="black" stroke="none"/>
+    <text x="260" y="145" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" stroke="none" fill="black">5</text>
+  </g>
+</svg>

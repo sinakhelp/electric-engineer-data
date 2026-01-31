@@ -1,0 +1,58 @@
+<svg width="400" height="220" viewBox="0 0 400 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="220" fill="white"/>
+  
+  <!-- Terminal Circles -->
+  <circle cx="40" cy="50" r="4" stroke="black" stroke-width="1.5" fill="none"/>
+  <circle cx="40" cy="180" r="4" stroke="black" stroke-width="1.5" fill="none"/>
+  <circle cx="360" cy="50" r="4" stroke="black" stroke-width="1.5" fill="none"/>
+  <circle cx="360" cy="180" r="4" stroke="black" stroke-width="1.5" fill="none"/>
+
+  <!-- Top Line Path (One continuous flow to prevent gaps) -->
+  <g stroke="black" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- First Segment to Resistor -->
+    <line x1="44" y1="50" x2="80" y2="50"/>
+    
+    <!-- Resistor r (Sharp Zigzag) -->
+    <polyline points="80,50 85,38 95,62 105,38 115,62 125,38 135,62 140,50"/>
+    
+    <!-- Second Segment (r to x) -->
+    <line x1="140" y1="50" x2="230" y2="50"/>
+    
+    <!-- Current Arrow Head (Centered between r and x) -->
+    <polygon points="195,50 185,46 185,54" fill="black" stroke="none"/>
+    
+    <!-- Inductor x (Compact loops) -->
+    <!-- The path ends at x=270 -->
+    <path d="M 230,50 
+             c 5,-20 25,-20 25,0 c 0,15 -15,15 -15,0 
+             c 5,-20 25,-20 25,0 c 0,15 -15,15 -15,0
+             c 5,-20 25,-20 25,0 c 0,15 -15,15 -15,0
+             c 5,-20 25,-20 25,0 c 0,15 -15,15 -15,0"/>
+    
+    <!-- Connection from the end of the last loop (x=270) to the right terminal -->
+    <line x1="270" y1="50" x2="356" y2="50"/>
+  </g>
+
+  <!-- Labels -->
+  <text x="110" y="30" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">r</text>
+  <text x="190" y="30" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">I</text>
+  <text x="265" y="30" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">x</text>
+
+  <!-- Bottom Line -->
+  <line x1="44" y1="180" x2="356" y2="180" stroke="black" stroke-width="2"/>
+
+  <!-- Es Voltage (Broken line with text in middle) -->
+  <line x1="40" y1="60" x2="40" y2="105" stroke="black" stroke-width="2"/>
+  <line x1="40" y1="135" x2="40" y2="176" stroke="black" stroke-width="2"/>
+  <polygon points="40,60 36,72 44,72" fill="black"/>
+  <polygon points="40,176 36,164 44,164" fill="black"/>
+  <text x="40" y="125" font-family="Arial, sans-serif" font-size="22" text-anchor="middle">Es</text>
+
+  <!-- Er Voltage (Broken line with text in middle) -->
+  <line x1="360" y1="60" x2="360" y2="105" stroke="black" stroke-width="2"/>
+  <line x1="360" y1="135" x2="360" y2="176" stroke="black" stroke-width="2"/>
+  <polygon points="360,60 356,72 364,72" fill="black"/>
+  <polygon points="360,176 356,164 364,164" fill="black"/>
+  <text x="360" y="125" font-family="Arial, sans-serif" font-size="22" text-anchor="middle">Er</text>
+
+</svg>

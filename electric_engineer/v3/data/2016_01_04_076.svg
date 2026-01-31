@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  
+  <style>
+    .line { fill: none; stroke: #000000; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+    .label { font-family: "Inter", "Segoe UI", Arial, sans-serif; font-size: 26px; font-weight: 500; fill: #000000; }
+    .terminal { fill: #ffffff; stroke: #000000; stroke-width: 2.5; }
+    .dot { fill: #000000; }
+  </style>
+
+  <!-- Horizontal Wires -->
+  <!-- Top: Left terminal (40, 70) to Right terminal (360, 70) -->
+  <path class="line" d="M 46 70 L 100 70"/>
+  <path class="line" d="M 180 70 L 220 70"/>
+  <path class="line" d="M 300 70 L 354 70"/>
+  
+  <!-- Bottom: Left terminal (40, 200) to Right terminal (360, 200) -->
+  <path class="line" d="M 46 200 L 200 200 L 354 200"/>
+
+  <!-- Vertical Wire for C -->
+  <path class="line" d="M 200 70 L 200 120"/>
+  <path class="line" d="M 200 150 L 200 200"/>
+
+  <!-- Inductor L (Left) -->
+  <path class="line" d="M 100 70 C 100 50, 115 50, 115 70 C 115 85, 105 85, 105 70 C 105 50, 130 50, 130 70 C 130 85, 120 85, 120 70 C 120 50, 145 50, 145 70 C 145 85, 135 85, 135 70 C 135 50, 160 50, 160 70 C 160 85, 150 85, 150 70 C 150 50, 175 50, 175 70 C 175 85, 165 85, 165 70 C 165 50, 180 50, 180 70"/>
+  <text x="140" y="45" class="label" text-anchor="middle">L</text>
+
+  <!-- Inductor L (Right) -->
+  <path class="line" d="M 220 70 C 220 50, 235 50, 235 70 C 235 85, 225 85, 225 70 C 225 50, 250 50, 250 70 C 250 85, 240 85, 240 70 C 240 50, 265 50, 265 70 C 265 85, 255 85, 255 70 C 255 50, 280 50, 280 70 C 280 85, 270 85, 270 70 C 270 50, 295 50, 295 70 C 295 85, 285 85, 285 70 C 285 50, 300 50, 300 70"/>
+  <text x="260" y="45" class="label" text-anchor="middle">L</text>
+
+  <!-- Capacitor C -->
+  <line x1="175" y1="125" x2="225" y2="125" class="line"/>
+  <line x1="175" y1="145" x2="225" y2="145" class="line"/>
+  <text x="235" y="145" class="label">C</text>
+
+  <!-- Terminals -->
+  <circle cx="40" cy="70" r="6" class="terminal"/>
+  <circle cx="40" cy="200" r="6" class="terminal"/>
+  <circle cx="360" cy="70" r="6" class="terminal"/>
+  <circle cx="360" cy="200" r="6" class="terminal"/>
+
+  <!-- Junction Dots -->
+  <circle cx="200" cy="70" r="3" class="dot"/>
+  <circle cx="200" cy="200" r="3" class="dot"/>
+
+</svg>

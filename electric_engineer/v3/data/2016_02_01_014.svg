@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 300">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  
+  <style>
+    .line { fill: none; stroke: #000000; stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; }
+    .dashed { stroke-dasharray: 5, 5; }
+    .label { font-family: "Inter", "Segoe UI", Arial, sans-serif; font-size: 26px; font-weight: 500; fill: #000000; }
+    .symbol { font-family: "Inter", "Segoe UI", Arial, sans-serif; font-size: 32px; fill: #000000; }
+    .ground-line { stroke: #000000; stroke-width: 2; }
+  </style>
+
+  <!-- Ground Section -->
+  <line x1="20" y1="220" x2="430" y2="220" class="line"/>
+  <rect x="20" y="221" width="410" height="60" fill="url(#groundPattern)"/>
+  <text x="225" y="265" class="label" text-anchor="middle">지면</text>
+
+  <!-- Height Line (h) -->
+  <path class="line" d="M 140 220 L 140 70"/>
+  <path d="M 140 220 L 134 205 L 146 205 Z" fill="#000000"/> <!-- Down arrow -->
+  <path d="M 140 70 L 134 85 L 146 85 Z" fill="#000000"/> <!-- Up arrow -->
+  <line x1="100" y1="70" x2="160" y2="70" class="line"/> <!-- Horizontal line at center height -->
+  <text x="120" y="155" class="label" text-anchor="end">h</text>
+
+  <!-- Parallel Reference Lines (Dashed) -->
+  <line x1="20" y1="30" x2="430" y2="30" class="line dashed"/>
+  <line x1="225" y1="30" x2="300" y2="30" class="line"/> <!-- Solid part above cylinder -->
+  
+  <line x1="20" y1="110" x2="430" y2="110" class="line dashed"/>
+  <line x1="225" y1="110" x2="300" y2="110" class="line"/> <!-- Solid part below cylinder -->
+
+  <!-- Conductor Cylinder -->
+  <circle cx="245" cy="70" r="40" class="line"/>
+  <circle cx="245" cy="70" r="3" fill="#000000"/> <!-- Center point -->
+  
+  <!-- Radius vector (a) -->
+  <path class="line" d="M 245 70 L 273 42"/>
+  <path d="M 273 42 L 260 48 L 267 55 Z" fill="#000000"/> <!-- Arrow head -->
+  <text x="255" y="55" class="label" text-anchor="end">a</text>
+
+  <!-- Permittivity Symbol (epsilon) -->
+  <text x="330" y="160" class="symbol">ε</text>
+
+  <!-- Patterns -->
+  <defs>
+    <pattern id="groundPattern" patternUnits="userSpaceOnUse" width="10" height="10" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="10" stroke="#000000" stroke-width="1.5"/>
+    </pattern>
+  </defs>
+
+</svg>
