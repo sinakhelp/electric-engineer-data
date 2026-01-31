@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-01-31T16:40:54.210244Z",
-  "revision": 202602010140,
+  "updatedAt": "2026-01-31T23:01:49.471754Z",
+  "revision": 202602010801,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_engineer/v4/data",
   "files": {
     "2022_02_05": {
@@ -119,9 +119,9 @@
       "size": 29488
     },
     "2022_02_04": {
-      "originalHash": "ccd473a736131f7efe174077d97bc3d8",
-      "hash": "f1c80f6a631ba0f3cb625e275685b43a",
-      "size": 44816
+      "originalHash": "f7a33e034513fb72dfa549abe5803705",
+      "hash": "e3377c518e5c777a4541e63300247a41",
+      "size": 44832
     },
     "2017_02_05": {
       "originalHash": "560f4a0b0b5c9ac439725d042c24aa5a",
@@ -379,9 +379,9 @@
       "size": 29552
     },
     "2022_01_01": {
-      "originalHash": "98cae65d91103a27e26e4a34a6a6db8a",
-      "hash": "65a7d2ada860f72430ccb52cdac24c8b",
-      "size": 46336
+      "originalHash": "7c4fc31dae0139378a3231d862aceb80",
+      "hash": "a0e0977f6c0e0e995cab14160ee66196",
+      "size": 46352
     },
     "2020_04_04": {
       "originalHash": "c871465bb08634ee2bedb820ec670e3f",
@@ -529,9 +529,9 @@
       "size": 3872
     },
     "electromagnetics_chapter_02": {
-      "originalHash": "d9f68141ab1f214a486ccde2996c1eb7",
-      "hash": "8f8126760caeb0bc3d55511f1fa405cb",
-      "size": 5616
+      "originalHash": "de99e707b0cef94c4bc080898a581cdf",
+      "hash": "f810fed427b9f0b9813a8d5623eb05f4",
+      "size": 4912
     },
     "electrical_equipment_chapter_04": {
       "originalHash": "76f4da0897e5a1b76a8ed642c410ce94",
@@ -554,9 +554,9 @@
       "size": 592
     },
     "electromagnetics_chapter_03": {
-      "originalHash": "f416f65f6e5f8d64acc42769d66041a8",
-      "hash": "c04b130774ae5e7db5289b0acee2741d",
-      "size": 9296
+      "originalHash": "ae92ac5c72989c2f8f9e2ae0cdcd31aa",
+      "hash": "b89afe2ae23915211284bc148bf2e266",
+      "size": 8848
     },
     "circuit_theory_chapter_05": {
       "originalHash": "b3458037d0e59e57ac352e87356a6350",
@@ -629,13 +629,13 @@
       "size": 7664
     },
     "electromagnetics_chapter_04": {
-      "originalHash": "e3445b472d7fc795329d7f16d0fbe753",
-      "hash": "3693cf69d1f21a9ef830ab6894bbeb75",
-      "size": 7632
+      "originalHash": "7e51b85ff221f47dbcfa4a76081c1879",
+      "hash": "7276a9f306ce755807db21eaf0de8c2d",
+      "size": 7056
     },
     "electromagnetics_chapter_05": {
-      "originalHash": "cfcbd18438d952c9e2b880aaf32d6e59",
-      "hash": "9a136ef8fce1866f665a4af7d528f0a1",
+      "originalHash": "46f35005972db84979a9d8ed62c24630",
+      "hash": "851b697bae41bf1aabb5d68b541e3acb",
       "size": 9072
     },
     "electromagnetics_chapter_13": {
@@ -804,9 +804,9 @@
       "size": 3152
     },
     "electromagnetics_chapter_01": {
-      "originalHash": "de074d907a9dd0ac5277928fb69bcc6a",
-      "hash": "e0324a3eec466adc0d98577cbb9aa956",
-      "size": 11344
+      "originalHash": "702bdd1413a9d2c9d5e2e91320925700",
+      "hash": "5956e9400387ce8c6e7c2773dac7f8ed",
+      "size": 11120
     },
     "2020_03_03_057_3.jpg": {
       "originalHash": "3ae42006ae0947ac196ddf205df19fb1",
