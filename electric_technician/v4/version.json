@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-02-01T15:19:59.811950Z",
-  "revision": 202602020019,
+  "updatedAt": "2026-02-02T12:34:49.689111Z",
+  "revision": 202602022134,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_technician/v4/data",
   "files": {
     "2015_05_01": {
@@ -288,6 +288,11 @@
       "hash": "1b5473bcf88a7d02687b81e2b24027db",
       "size": 25984
     },
+    "tech_installation_chapter_05": {
+      "originalHash": "daa68c81115f049c70714111243597fb",
+      "hash": "f7250be457a3b3d89250ae33da04bbb5",
+      "size": 1696
+    },
     "tech_theory_chapter_02": {
       "originalHash": "9fbc4eef7b744e4e061fcef1c7ec2aee",
       "hash": "75462909db65044108a5c6bf22821551",
@@ -299,9 +304,14 @@
       "size": 2848
     },
     "tech_equipment_chapter_01": {
-      "originalHash": "3fef15d0bd32c3e2d0e4dcbdb0a9066c",
-      "hash": "d2783b550dafc4aff248552d6d54dc56",
-      "size": 3408
+      "originalHash": "f3b036e41eee35343ecac6ab60c4a91b",
+      "hash": "b2934886a04677a2d10ce635e5b4c353",
+      "size": 4768
+    },
+    "tech_installation_chapter_04": {
+      "originalHash": "fa178e351f075be04e85340f5e730251",
+      "hash": "3351b6b5c7339fbfd03647dc5f987c9f",
+      "size": 1264
     },
     "tech_theory_chapter_04": {
       "originalHash": "f95ee22ec49f1766aee1881702fb68fb",
@@ -309,14 +319,19 @@
       "size": 3504
     },
     "tech_installation_chapter_03": {
-      "originalHash": "e22e378671db22e9e86790eb673be2de",
-      "hash": "5ce5d2d5e1f3524ab0289f289c50b9f6",
-      "size": 976
+      "originalHash": "e515a6a9a9bfc2f59fb309989e7ba385",
+      "hash": "3648d3bc685aee8f4ebd238faf364a3b",
+      "size": 1712
+    },
+    "tech_equipment_chapter_06": {
+      "originalHash": "b08cb8b4ab20b22dbd2582c090a12452",
+      "hash": "c1796bf259692917e34e337f6a5ef981",
+      "size": 1936
     },
     "tech_installation_chapter_02": {
-      "originalHash": "4d478ecf54f6aea1be316d1d49858195",
-      "hash": "f8dbbc165710ffbd4ff5fcf249914d4f",
-      "size": 1008
+      "originalHash": "dc4edd88fecd0e5c4d79cefc4730872d",
+      "hash": "dc140d6947b387e17e58783c3c6e44ed",
+      "size": 2848
     },
     "tech_theory_chapter_05": {
       "originalHash": "c0c052a8706339970d4990a1b9459317",
@@ -329,24 +344,24 @@
       "size": 3232
     },
     "tech_equipment_chapter_04": {
-      "originalHash": "a75b5c6210ca89ac5e961a80fa5d5f19",
-      "hash": "95986775da076cc2781a3b78bbb47a36",
-      "size": 3232
+      "originalHash": "4504bed5efc84767c6b063ffa5de60b3",
+      "hash": "d6dd2e53615d0f9fb3f52140b91928d7",
+      "size": 2656
     },
     "tech_installation_chapter_01": {
-      "originalHash": "ed3b4b7759dca58af8feec41701b6ab1",
-      "hash": "d1b788bcd82063bcc093e4ccd399ca28",
-      "size": 928
+      "originalHash": "6b56f640c0d06783bf31fdc441aa722b",
+      "hash": "a59e894d4327c41b24aaa0ad5ad637ae",
+      "size": 2384
     },
     "tech_equipment_chapter_05": {
-      "originalHash": "b5bc0d8042de5eaab2aa64463eff9276",
-      "hash": "edbe19081146ce993461bc138154f6d9",
-      "size": 2640
+      "originalHash": "31cad07bb1e6a4706d8a5f80795f6c84",
+      "hash": "d55873389d8a1f190fef04e69c50b317",
+      "size": 2208
     },
     "summary_subjects": {
-      "originalHash": "7df38241dc79f213ea483bb5d69d2175",
-      "hash": "02ee50deee547718764dae4c5bb1b04c",
-      "size": 3616
+      "originalHash": "78e8c6969342ea879c6df92b1a876fbe",
+      "hash": "72caf791a58626ef7e04d02a80892030",
+      "size": 3888
     },
     "tech_theory_chapter_07": {
       "originalHash": "1ccaf97b8ed41754df0a09efd388ff19",
@@ -354,19 +369,24 @@
       "size": 4032
     },
     "tech_equipment_chapter_02": {
-      "originalHash": "b9a3b5b4b1c67dd9784c26ce59943fd4",
-      "hash": "40dd370ddf0f42d764c5e8c3ab4adb04",
-      "size": 3312
+      "originalHash": "ada3b1c7c4e6d9cc9f8f5f4b2e12d50d",
+      "hash": "b1a8ad0a8c9ceaccab3e018bed5419d8",
+      "size": 3888
     },
     "tech_theory_chapter_01": {
       "originalHash": "63534e5041118db83618f32db385a2b0",
       "hash": "58d67a72ca46ed4fde97afc42b6bfaa5",
       "size": 4864
     },
+    "tech_installation_chapter_06": {
+      "originalHash": "fa76643bcb11bcf7eeff07f00423d949",
+      "hash": "dc29749f067a05d45a1af8f05147f503",
+      "size": 848
+    },
     "tech_equipment_chapter_03": {
-      "originalHash": "6074cd5c67ea21df6b4076ee412dfb9e",
-      "hash": "789924510cdd44388168a5875213230e",
-      "size": 3136
+      "originalHash": "71a1c43c878bdacb115d85f3aa85c230",
+      "hash": "b001bf8b5c90926037ed3304fa47c533",
+      "size": 3376
     },
     "2015_04_02_030.jpg": {
       "originalHash": "655328178ac63977f9d1ebe0050e270b",
