@@ -1,0 +1,107 @@
+{
+  "updatedAt": "2026-02-06T16:22:51.546896Z",
+  "revision": 202602070122,
+  "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/safety_engineer/v4/data",
+  "files": {
+    "2022_02_05": {
+      "originalHash": "1393a6b4a72343e5b1cab0aa7d4fa3a1",
+      "hash": "ae2dd7a895aec3e4d95ed13b9bcfe655",
+      "size": 42128
+    },
+    "2022_02_04": {
+      "originalHash": "52a7132732e85f0b5519b240b6690cce",
+      "hash": "94a1e3ac13b65decc02d1fc93871485e",
+      "size": 43808
+    },
+    "2022_02_03": {
+      "originalHash": "daecfb8c212f08d45537460e4274a4c1",
+      "hash": "e8f128aad41ef74eb5b33f6b9e7bbf50",
+      "size": 28000
+    },
+    "2022_02_02": {
+      "originalHash": "082cf82f15f0c2d0dce8778c6dc7f281",
+      "hash": "688154f2c202387e66231f8401783890",
+      "size": 24800
+    },
+    "2022_02_01": {
+      "originalHash": "999c0446edd152403fcc02045f11d2e8",
+      "hash": "344952a89d02baf0527453df1cfa4a02",
+      "size": 24368
+    },
+    "2022_02_06": {
+      "originalHash": "76208ec82c5da8dd756905d86ba1e7cb",
+      "hash": "5d17bd2ee5ecd653fba7f556b3fc507b",
+      "size": 44720
+    },
+    "2022_02_02_028.jpg": {
+      "originalHash": "55739352d1312b5fa25159b8a6fa08cc",
+      "hash": "55739352d1312b5fa25159b8a6fa08cc",
+      "size": 20917
+    },
+    "2022_02_02_030_2.jpg": {
+      "originalHash": "797440a4cd792b048e18821d5a42152e",
+      "hash": "797440a4cd792b048e18821d5a42152e",
+      "size": 2751
+    },
+    "2022_02_04_071_1.jpg": {
+      "originalHash": "c8058c0ab50f359503a4735a8439be37",
+      "hash": "c8058c0ab50f359503a4735a8439be37",
+      "size": 5855
+    },
+    "2022_02_02_030_3.jpg": {
+      "originalHash": "08479502a5a09a5f6918cfb3f1d91185",
+      "hash": "08479502a5a09a5f6918cfb3f1d91185",
+      "size": 2656
+    },
+    "2022_02_02_030_1.jpg": {
+      "originalHash": "5b41110a3aa47a97b4cf3692fe953100",
+      "hash": "5b41110a3aa47a97b4cf3692fe953100",
+      "size": 2260
+    },
+    "2022_02_04_071_2.jpg": {
+      "originalHash": "08f92a38875f0aa1b9b541f86509b046",
+      "hash": "08f92a38875f0aa1b9b541f86509b046",
+      "size": 6333
+    },
+    "2022_02_04_071_3.jpg": {
+      "originalHash": "6566ec1fc060a9f1ec8a466e7898a114",
+      "hash": "6566ec1fc060a9f1ec8a466e7898a114",
+      "size": 6203
+    },
+    "2022_02_02_030_4.jpg": {
+      "originalHash": "3ebf17ff70370161b19f6b4f25ff8b15",
+      "hash": "3ebf17ff70370161b19f6b4f25ff8b15",
+      "size": 15079
+    },
+    "2022_02_04_071_4.jpg": {
+      "originalHash": "dd0a3c8e9db32a0ccaca94840f2ec5dd",
+      "hash": "dd0a3c8e9db32a0ccaca94840f2ec5dd",
+      "size": 6183
+    },
+    "2022_02_04_072_1.jpg": {
+      "originalHash": "7371b12efd8cfaf21d1a30681b697ceb",
+      "hash": "7371b12efd8cfaf21d1a30681b697ceb",
+      "size": 5649
+    },
+    "2022_02_04_072_3.jpg": {
+      "originalHash": "512c4d46ef44d44285c04b61a04587a8",
+      "hash": "512c4d46ef44d44285c04b61a04587a8",
+      "size": 6140
+    },
+    "2022_02_04_072_2.jpg": {
+      "originalHash": "036941dbb44b03ee0cee0317c33dcc51",
+      "hash": "036941dbb44b03ee0cee0317c33dcc51",
+      "size": 6029
+    },
+    "2022_02_04_072_4.jpg": {
+      "originalHash": "deb4d819952237a98ff58df45a9ee589",
+      "hash": "deb4d819952237a98ff58df45a9ee589",
+      "size": 6235
+    },
+    "remote_config": {
+      "originalHash": "02708cf3cf86bb7e7ed1ba4b038276e3",
+      "hash": "a00182628654de7b19408a782914c0de",
+      "size": 544
+    }
+  }
+}
