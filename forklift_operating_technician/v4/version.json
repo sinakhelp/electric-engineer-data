@@ -1,0 +1,22 @@
+{
+  "updatedAt": "2026-02-19T22:59:05.509192Z",
+  "revision": 202602200759,
+  "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/forklift_operating_technician/v4/data",
+  "files": {
+    "2011_05_01": {
+      "originalHash": "fff2a0938683fbab24c965cf9a9feb92",
+      "hash": "864349a08251ac0e7668fd176b1ca26b",
+      "size": 138512
+    },
+    "2011_05_01_045.jpg": {
+      "originalHash": "551b2f8cbb6b193f650af99c1ab51420",
+      "hash": "551b2f8cbb6b193f650af99c1ab51420",
+      "size": 48000
+    },
+    "2011_05_01_050.jpg": {
+      "originalHash": "742bf396045538f03d1b58fcc2e07e6e",
+      "hash": "742bf396045538f03d1b58fcc2e07e6e",
+      "size": 3877
+    }
+  }
+}
