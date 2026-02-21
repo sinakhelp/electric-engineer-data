@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-02-21T14:40:31.127553Z",
-  "revision": 202602212340,
+  "updatedAt": "2026-02-21T17:59:51.204576Z",
+  "revision": 202602220259,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_engineer/v4/data",
   "files": {
     "2022_02_05": {
-      "originalHash": "fe9decea43cb48855e094a57f72f9ad3",
-      "hash": "095154f0755b4e2d3f1f5a598c329f9a",
-      "size": 29344
+      "originalHash": "a95de4066793f082fe746013f16be94e",
+      "hash": "c506c49124320d587b676eacf6f2dd2d",
+      "size": 29376
     },
     "2022_01_03": {
       "originalHash": "a6dc268d9e2364179f3430dc107b3863",
