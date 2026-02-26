@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-02-26T08:05:37.226663Z",
-  "revision": 202602261705,
+  "updatedAt": "2026-02-26T13:39:44.301615Z",
+  "revision": 202602262239,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_engineer/v4/data",
   "files": {
     "2022_02_05": {
@@ -109,9 +109,9 @@
       "size": 31760
     },
     "2020_01·02_05": {
-      "originalHash": "05778d5f33297751b561e67fc376fdea",
-      "hash": "c44ea951624bc673b5a49e538f808860",
-      "size": 21488
+      "originalHash": "36d23bac773f5a25e96dcf77de4daebf",
+      "hash": "e1648732c28e88ef8e8e1af01995c1f3",
+      "size": 26048
     },
     "2022_01_02": {
       "originalHash": "84c92580fe5ecb5af1466d85097710f5",
@@ -209,9 +209,9 @@
       "size": 30960
     },
     "2020_03_05": {
-      "originalHash": "0a2cd4b555ff5e68b74c90fc3434e69e",
-      "hash": "aed4eb5c00a380edaf90e4c1c20f4613",
-      "size": 21280
+      "originalHash": "a2330ef1c34e57c73cf1f96763cca31e",
+      "hash": "29529318098179377a6059d30e31918c",
+      "size": 25568
     },
     "2019_01_01": {
       "originalHash": "2596595656fc26d0e347bf25026c1cf7",
@@ -334,9 +334,9 @@
       "size": 32832
     },
     "2021_01_05": {
-      "originalHash": "2dee9b17c602493611059d05a32204a9",
-      "hash": "4eb6a18c1b1b655d0dc1361d743619c1",
-      "size": 21216
+      "originalHash": "4b51bbcd4d0a5b214ef303bc3467a4d8",
+      "hash": "2f2591d30e02b96f014af1f76763aae3",
+      "size": 26992
     },
     "2016_02_03": {
       "originalHash": "a550ead7e6c0f83f95ff30998a7d1ba8",
@@ -404,9 +404,9 @@
       "size": 34288
     },
     "2021_03_05": {
-      "originalHash": "3f3c1251fb7aff1c1e486628352e48a2",
-      "hash": "e2609eff5b20bb90a657ac66a33f7f77",
-      "size": 19504
+      "originalHash": "585f284abb099ae57e5d7c192d87e5c8",
+      "hash": "ae478ee174ed54c9daeb7626dcc87187",
+      "size": 27392
     },
     "2016_03_05": {
       "originalHash": "8b61875e1c0145c0987199544d5f7cca",
@@ -459,14 +459,14 @@
       "size": 19728
     },
     "2021_02_05": {
-      "originalHash": "ab0180bb0d732cdb2a8ab7c30dd147c0",
-      "hash": "0a4fb61544af04dc2e189c469b911f05",
-      "size": 20864
+      "originalHash": "719af31b2b78d37a0fa9fb4946ac5a15",
+      "hash": "01157398df8d6a14db5cc8ab1adc78b9",
+      "size": 28144
     },
     "2019_03_02": {
-      "originalHash": "3ae9f8018b8a7a2d1e1a77932134ab03",
-      "hash": "3e4d963718e91077f11ca8276ebe8828",
-      "size": 32336
+      "originalHash": "881afec8181b166f1718a6ffc0354342",
+      "hash": "7e587fd347cba3715295eb677461c580",
+      "size": 32320
     },
     "2021_03_04": {
       "originalHash": "4a360b50a0c4aff541d34627d9d91a7a",
@@ -499,9 +499,9 @@
       "size": 20608
     },
     "2020_04_05": {
-      "originalHash": "69aa2407ccf7fde5fa0462eea55d6923",
-      "hash": "c1a1b4b70b5ca784224479681d496d38",
-      "size": 20512
+      "originalHash": "6077045a398be85574e029e8dbaed9a7",
+      "hash": "e5a70a5585b201292e7bdfb68dd74a61",
+      "size": 26208
     },
     "electrical_equipment_chapter_08": {
       "originalHash": "ee190ceb081aa2c0150edac7240780fb",
