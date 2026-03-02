@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-01T17:44:05.081851Z",
-  "revision": 202603020244,
+  "updatedAt": "2026-03-02T10:36:11.271836Z",
+  "revision": 202603021936,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_engineer/v4/data",
   "files": {
     "2022_02_05": {
@@ -404,9 +404,9 @@
       "size": 34288
     },
     "2021_03_05": {
-      "originalHash": "585f284abb099ae57e5d7c192d87e5c8",
-      "hash": "ae478ee174ed54c9daeb7626dcc87187",
-      "size": 27392
+      "originalHash": "28f4ca825540e987de21c8f3fdac40cf",
+      "hash": "f123f2d6c568d5515243af01475245c6",
+      "size": 28256
     },
     "2016_03_05": {
       "originalHash": "8b61875e1c0145c0987199544d5f7cca",
@@ -724,9 +724,9 @@
       "size": 6240
     },
     "summary_subjects": {
-      "originalHash": "3196d6ee886221fa85efeb164d02b262",
-      "hash": "3dc0dd1f229dcc37213d0590ef98fa89",
-      "size": 9472
+      "originalHash": "d59be73318c7142e30124266ac3efbe0",
+      "hash": "836f44ba2a1856f999a8aab7158b5559",
+      "size": 9648
     },
     "circuit_theory_chapter_01": {
       "originalHash": "103f751b51428c9f13f429cb64dfa788",
