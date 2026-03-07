@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-06T09:29:13.622557Z",
-  "revision": 202603061829,
+  "updatedAt": "2026-03-07T12:59:57.994267Z",
+  "revision": 202603072159,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_engineer/v4/data",
   "files": {
     "2022_02_05": {
@@ -529,8 +529,8 @@
       "size": 3872
     },
     "electromagnetics_chapter_02": {
-      "originalHash": "d1afa7a768d32f828acbc017d1273038",
-      "hash": "554839b25bfa0ca2447707c009a6b19c",
+      "originalHash": "bfaf4ebecb17ccf618eef5602f4fcfc7",
+      "hash": "e1050bdc797bae6197e6f46c23bf82e6",
       "size": 8768
     },
     "electrical_equipment_chapter_04": {
@@ -554,9 +554,9 @@
       "size": 592
     },
     "electromagnetics_chapter_03": {
-      "originalHash": "f56c429f5f6cceea167d5c8a152f1aec",
-      "hash": "1a5e4f4f0a9a8dfaca2f200640cce98a",
-      "size": 8880
+      "originalHash": "a356ec691ed8121913290407ac92933d",
+      "hash": "72de1a5fdf23c6b64f58d7fd552189de",
+      "size": 8528
     },
     "circuit_theory_chapter_05": {
       "originalHash": "b3458037d0e59e57ac352e87356a6350",
@@ -629,9 +629,9 @@
       "size": 11696
     },
     "electromagnetics_chapter_04": {
-      "originalHash": "a8bc937e54c1548b1dfbba78c0104cbd",
-      "hash": "91e1beb087d9b1ae0a8a9a8c03bec92e",
-      "size": 8368
+      "originalHash": "27684edf34ac9f9af65ec7ace221e5fd",
+      "hash": "f3d0cc8d63f56a5b45e3971a9f68534a",
+      "size": 8816
     },
     "electromagnetics_chapter_05": {
       "originalHash": "bdd61770b18760c28d9d4023e4328fb5",
@@ -799,9 +799,9 @@
       "size": 3152
     },
     "electromagnetics_chapter_01": {
-      "originalHash": "85de6bc8aacd61baa119bf6f76e4674e",
-      "hash": "970c5807dc8c9893b218a5c63abede4d",
-      "size": 5952
+      "originalHash": "2b95e7118b2503f92eef6bd31fd49cce",
+      "hash": "2815959a18584cc0ad356edf41282cd9",
+      "size": 5888
     },
     "2020_04_05_084.webp": {
       "originalHash": "83d1a70d089028c5482b85be4caab62c",
