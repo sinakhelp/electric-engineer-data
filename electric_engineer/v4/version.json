@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-14T03:07:12.326775Z",
-  "revision": 202603141207,
+  "updatedAt": "2026-03-19T07:33:30.578826Z",
+  "revision": 202603191633,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_engineer/v4/data",
   "files": {
     "2022_02_05": {
@@ -404,9 +404,9 @@
       "size": 34288
     },
     "2021_03_05": {
-      "originalHash": "28f4ca825540e987de21c8f3fdac40cf",
-      "hash": "f123f2d6c568d5515243af01475245c6",
-      "size": 28256
+      "originalHash": "18bcb60fde98c62bc84738f452bdb3a4",
+      "hash": "3519937760d9042a45eefa037e31f257",
+      "size": 28768
     },
     "2016_03_05": {
       "originalHash": "8b61875e1c0145c0987199544d5f7cca",
@@ -799,9 +799,9 @@
       "size": 3152
     },
     "electromagnetics_chapter_01": {
-      "originalHash": "2b95e7118b2503f92eef6bd31fd49cce",
-      "hash": "2815959a18584cc0ad356edf41282cd9",
-      "size": 5888
+      "originalHash": "84369e5a49894316abdc0fe17cbb2a5c",
+      "hash": "79bc49f07da329a7868de87b72315082",
+      "size": 5744
     },
     "2020_04_05_084.webp": {
       "originalHash": "83d1a70d089028c5482b85be4caab62c",
