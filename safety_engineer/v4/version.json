@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-19T18:24:13.985252Z",
-  "revision": 202603200324,
+  "updatedAt": "2026-03-21T08:03:35.040429Z",
+  "revision": 202603211703,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/safety_engineer/v4/data",
   "files": {
     "2022_02_05": {
@@ -264,8 +264,8 @@
       "size": 46336
     },
     "2022_01_06": {
-      "originalHash": "64a5a4776edd92f12efa809981ab3cfb",
-      "hash": "112b18acc238a928d338789245a57f94",
+      "originalHash": "dbb025f46d2d1961f6a54a3e5fcc785d",
+      "hash": "0fc97af016d210a8204d47560d47fcc5",
       "size": 46400
     },
     "2020_01·02_01": {
