@@ -1,12 +1,17 @@
 {
-  "updatedAt": "2026-03-19T13:46:40.609603Z",
-  "revision": 202603192246,
+  "updatedAt": "2026-03-22T18:09:22.462174Z",
+  "revision": 202603230309,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/forklift_operating_technician/v4/data",
   "files": {
+    "2023_03_01": {
+      "originalHash": "93b49701643b69ebfb88444c113c8d4c",
+      "hash": "0640eb57e5919cc14d695f321bc32d02",
+      "size": 91984
+    },
     "2009_05_01": {
-      "originalHash": "deac50bb79afc2bc2843077e0fc25e6e",
-      "hash": "d939271d491dc222c5d8e09236fda024",
-      "size": 130016
+      "originalHash": "daba688e55a06820b30e6851cc0e2335",
+      "hash": "9bdfc5a238384dbdde03b9d89613767f",
+      "size": 130000
     },
     "2011_02_01": {
       "originalHash": "a126acd59e304bb913bf056fd7bb4b7e",
@@ -18,6 +23,21 @@
       "hash": "e726fefac2236b2b21f5538e2ba69afb",
       "size": 135584
     },
+    "2024_01_01": {
+      "originalHash": "a138505d7b2a696e8bdd58dc8b8a3570",
+      "hash": "efc1ea87c21681cc0d9250865a5f3be2",
+      "size": 114896
+    },
+    "2023_02_01": {
+      "originalHash": "6f1ed44d50de6702155caa6af7ca87ef",
+      "hash": "089fbe917acf4f39a4d7a6fdba847b32",
+      "size": 93072
+    },
+    "2022_04_01": {
+      "originalHash": "15d13ecfbd481c5bf9b5e97a1e4e3a2f",
+      "hash": "db9f016ecef148a04b81420d90e3db1f",
+      "size": 89616
+    },
     "2010_05_01": {
       "originalHash": "29a1f63888d55edd939991ac506582c4",
       "hash": "c8ebefd799877e4efffc0f12f046e5ed",
@@ -28,15 +48,45 @@
       "hash": "0cb71e05e550d650e6a23e9259251816",
       "size": 89952
     },
+    "2024_02_01": {
+      "originalHash": "37e11dac7a757ecd27436cc50ac36f99",
+      "hash": "8ef5c500dddb72955833dd0dd293c28f",
+      "size": 140832
+    },
+    "2023_01_01": {
+      "originalHash": "c7293a5fc256b34bc88fc86917bebb88",
+      "hash": "1a298067f05767c8a1b82f31c5b02902",
+      "size": 94160
+    },
+    "2024_03_01": {
+      "originalHash": "c06687eedb683cb1aab741c907566c97",
+      "hash": "414a602163bdf5dfdd2c8c118baa5b0d",
+      "size": 102272
+    },
+    "2022_02_01": {
+      "originalHash": "a9724933dc685cbd81e8552ea919038e",
+      "hash": "44e5ae861b3b76ee32803e1ceb9b1166",
+      "size": 91632
+    },
     "2011_05_01": {
       "originalHash": "6a8dd9ba70521c6becb4c217d27359e9",
       "hash": "83f976f373a98444ce2c53e0673c41c6",
       "size": 138592
     },
+    "2023_04_01": {
+      "originalHash": "5976d71c4c678b5a5d4718b3740dc204",
+      "hash": "03fa23ae680422cedb8585b9cbee8a99",
+      "size": 92128
+    },
     "2010_02_01": {
       "originalHash": "936cdd616202a13fb4b38e7c40ea71ac",
       "hash": "ceff9ffa1915e53f8149962964008727",
       "size": 131392
+    },
+    "2022_03_01": {
+      "originalHash": "8ab9d47e7905db90a3d4890e26c64634",
+      "hash": "d1939c4ab0f97e8fa763104cfe765414",
+      "size": 89024
     },
     "2011_04_01": {
       "originalHash": "62b2eee282f675fa41b60b6813e4fc7f",
@@ -48,10 +98,20 @@
       "hash": "b82a50684b204afac1713473bd01ee0e",
       "size": 87344
     },
+    "2022_01_01": {
+      "originalHash": "c1e1227b1b8c1decce5288a4e4a5ff0c",
+      "hash": "d9658507959b0941243bf67aa881c4f6",
+      "size": 89648
+    },
     "2025_03_01": {
       "originalHash": "8328c99c65edafb16682544a778f3380",
       "hash": "d45d84b81bbd1b5c0930e8cc78a16c6b",
       "size": 90704
+    },
+    "2024_04_01": {
+      "originalHash": "7106faeff4f604b8b5f496e5aeed3d62",
+      "hash": "3b6c04b1ff0ead93297a2dc9e8706b26",
+      "size": 95648
     },
     "2025_02_01": {
       "originalHash": "876e2395e5ea8d5030641ef31738a154",
@@ -62,6 +122,31 @@
       "originalHash": "30155615e1526f40b9396644ee1387e1",
       "hash": "2766604021926a53bf7af047735fce26",
       "size": 129984
+    },
+    "forklift_chapter_01": {
+      "originalHash": "7cd50498e6b4961fc84ba2effbc41343",
+      "hash": "c200f07513ee5c29985281b2e8077b50",
+      "size": 3376
+    },
+    "forklift_chapter_03": {
+      "originalHash": "c41e558de891e8e683847fe76fc2dfbc",
+      "hash": "4a288e413674feb6d8aa5f807f73e9e7",
+      "size": 3184
+    },
+    "forklift_chapter_02": {
+      "originalHash": "b9c99f63721f2870f0b4164e07a9bda8",
+      "hash": "9323ec489632f86958bcbcb7a52b13fd",
+      "size": 3280
+    },
+    "summary_subjects": {
+      "originalHash": "b22ceda8f31c218a1a0dbc80934ff52a",
+      "hash": "b170cad55db8af570cbec0401211b988",
+      "size": 880
+    },
+    "forklift_chapter_04": {
+      "originalHash": "eada8a097a11c0b790bdfaeafdd0f88f",
+      "hash": "58c5038ba9c5a00ac7b95f9b98c8fb2e",
+      "size": 2928
     },
     "2010_02_01_037_4.jpg": {
       "originalHash": "99e7d0aa35fe5d8e983cfa59ac5fe685",
