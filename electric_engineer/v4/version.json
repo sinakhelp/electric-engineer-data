@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-21T14:08:45.060289Z",
-  "revision": 202603212308,
+  "updatedAt": "2026-03-23T08:41:27.494853Z",
+  "revision": 202603231741,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_engineer/v4/data",
   "files": {
     "2022_02_05": {
@@ -168,6 +168,11 @@
       "hash": "0ddfdb9aae005ed21c6fa82391ef2ca5",
       "size": 33152
     },
+    "2026_01_01": {
+      "originalHash": "cc0d7210cafc7f945ed388b647148d50",
+      "hash": "550d4c93fe62baf9d4ed754ea360e73c",
+      "size": 32592
+    },
     "2022_02_03": {
       "originalHash": "caa7c26f94b3ae7aaa5cd272af6f630e",
       "hash": "4753b6acde01a1bd7e6c2ecaab37be97",
@@ -318,6 +323,16 @@
       "hash": "473f51e89b0c5e3c2b8f1406837ba8fd",
       "size": 42592
     },
+    "2026_01_03": {
+      "originalHash": "2e2310a54278b8a7659aa0d9b7c7baeb",
+      "hash": "fe939ddd944dc572ea5918a841579375",
+      "size": 25312
+    },
+    "2026_01_02": {
+      "originalHash": "528896e9caff4685a0ed42195670eea7",
+      "hash": "746bc0572cba1593895870ccad9b02fe",
+      "size": 28256
+    },
     "2020_01·02_01": {
       "originalHash": "3ec4e2a604605a4ff31e55be128993c1",
       "hash": "56d10312ea60f81e7b960bb0bc5fe984",
@@ -382,6 +397,11 @@
       "originalHash": "014fdcd249bc5d35593502ebcbb83f90",
       "hash": "b8d5d8ef43f014b66aa869c3f42884d5",
       "size": 46304
+    },
+    "2026_01_05": {
+      "originalHash": "92ae50fdf16d28a4ee0f2b608d1bd5e6",
+      "hash": "af9e10243d7881219d35de868a430d66",
+      "size": 25808
     },
     "2020_04_04": {
       "originalHash": "2eae88284fea4f1b9f1d87d0e5617060",
@@ -502,6 +522,11 @@
       "originalHash": "6077045a398be85574e029e8dbaed9a7",
       "hash": "e5a70a5585b201292e7bdfb68dd74a61",
       "size": 26208
+    },
+    "2026_01_04": {
+      "originalHash": "df2aee54cb9a2720f932346366442281",
+      "hash": "625922e4bf746abcbd79add4cd71ff29",
+      "size": 27616
     },
     "electrical_equipment_chapter_08": {
       "originalHash": "66dfe25da096e3303e69fccfe46ba270",

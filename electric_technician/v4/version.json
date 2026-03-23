@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-21T21:24:42.233040Z",
-  "revision": 202603220624,
+  "updatedAt": "2026-03-23T08:23:47.325403Z",
+  "revision": 202603231723,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_technician/v4/data",
   "files": {
     "2015_05_01": {
@@ -24,9 +24,9 @@
       "size": 25792
     },
     "2025_03_03": {
-      "originalHash": "fb6346d9410a0268ec51be8d2cc6d7c7",
-      "hash": "d8ba7bf9fbd2ea798c17545f845572e6",
-      "size": 24624
+      "originalHash": "ebf2e5e863cf442711f3647560dfeee6",
+      "hash": "1adcacc650d9663b3b326d73478bfdb8",
+      "size": 24144
     },
     "2013_01_01": {
       "originalHash": "cbe1c7a469927253f96a957ae96abbf6",
@@ -79,9 +79,9 @@
       "size": 26864
     },
     "2025_03_02": {
-      "originalHash": "94d3f45c718ee86faa273b8d3a18c992",
-      "hash": "ca7d6d7b4232b97091d6e54e17116d51",
-      "size": 25472
+      "originalHash": "edd63174f1bae646ade6d295fb59b170",
+      "hash": "ffff4cfd13b9d1796037ca4d0540e580",
+      "size": 25056
     },
     "2016_01_01": {
       "originalHash": "c5094238b6393c2fbeca3d87b17e1cb8",
@@ -349,9 +349,9 @@
       "size": 27200
     },
     "2025_03_01": {
-      "originalHash": "2fb75222322ef6f8683ae4c8c65ffdc9",
-      "hash": "1954087ef51072fa05d4aa3752af7f84",
-      "size": 23680
+      "originalHash": "ee7d9d9e716f5ae4015fd571f458fe6d",
+      "hash": "af52e15c774d52b776b58d0f3216bb8b",
+      "size": 23312
     },
     "2016_01_02": {
       "originalHash": "cc136b3641396edef04d1e5e45d02d56",
@@ -359,9 +359,9 @@
       "size": 27296
     },
     "2013_04_01": {
-      "originalHash": "72383beeb1dc9c0d641b438efa791243",
-      "hash": "e0342ed2e14442c5a1455ae5b6557c07",
-      "size": 25264
+      "originalHash": "eb78142032253dd6602ac6564144458c",
+      "hash": "983b65b9344516f9ff127afeaeac2b53",
+      "size": 24784
     },
     "2024_04_01": {
       "originalHash": "7996e6aa6af4926c7009c187378ab820",
@@ -394,9 +394,9 @@
       "size": 26176
     },
     "2015_04_03": {
-      "originalHash": "25b83d3aff292b1d3200507f2c2fd968",
-      "hash": "bed8a4896b4dec8dc6de8b4b6f1c6232",
-      "size": 26640
+      "originalHash": "bbc1c8cff05ab37549c59e4519478acf",
+      "hash": "16a9cc97979dc47fb0788ba95b88db65",
+      "size": 26544
     },
     "2015_05_02": {
       "originalHash": "fe7c7cfe03dcee73a0791939b70fe4ad",
