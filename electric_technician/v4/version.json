@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-30T19:36:03.227121Z",
-  "revision": 202603310436,
+  "updatedAt": "2026-03-30T19:49:01.439829Z",
+  "revision": 202603310449,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_technician/v4/data",
   "files": {
     "2015_05_01": {
@@ -119,9 +119,9 @@
       "size": 25680
     },
     "2025_04_01": {
-      "originalHash": "1a91c6e31e5cc276f27ac4c48d3a0836",
-      "hash": "78f9d6cc2effa5b5384ec450f912eeb2",
-      "size": 37376
+      "originalHash": "3f397fc39a1139ea185a972c341a69d6",
+      "hash": "7dd6f4d9ce2f9554ff8b454ee17adf49",
+      "size": 37424
     },
     "2025_01_02": {
       "originalHash": "db6012dec033e49542783b3a2699c4ee",
@@ -374,9 +374,9 @@
       "size": 25216
     },
     "2024_01_02": {
-      "originalHash": "e031be2fc8f1657010177361a76b35dd",
-      "hash": "f2b9e73c80706e7e12fd045b4ff09866",
-      "size": 24432
+      "originalHash": "62ca7423ee03bd8db8fcd66cd2ceb003",
+      "hash": "1f107800cff3b6ebc80d742809857a02",
+      "size": 25312
     },
     "2013_01_02": {
       "originalHash": "07393ac8a0791e02006d002471617906",
