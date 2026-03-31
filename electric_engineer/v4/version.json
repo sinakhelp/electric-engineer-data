@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-29T19:53:59.785341Z",
-  "revision": 202603300453,
+  "updatedAt": "2026-03-31T16:48:26.614191Z",
+  "revision": 202604010148,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_engineer/v4/data",
   "files": {
     "2022_02_05": {
@@ -169,9 +169,9 @@
       "size": 33152
     },
     "2026_01_01": {
-      "originalHash": "264fc5196ca1453aa5a11c4ba79cee07",
-      "hash": "6564a00b26fd979c5ce95d1960b8ffa5",
-      "size": 26592
+      "originalHash": "87645e949cc79dc47e187f10b5347eb0",
+      "hash": "4469a079a39d5a91c538d7d178e82e75",
+      "size": 27136
     },
     "2022_02_03": {
       "originalHash": "caa7c26f94b3ae7aaa5cd272af6f630e",
@@ -324,14 +324,14 @@
       "size": 42592
     },
     "2026_01_03": {
-      "originalHash": "2e2310a54278b8a7659aa0d9b7c7baeb",
-      "hash": "fe939ddd944dc572ea5918a841579375",
-      "size": 25312
+      "originalHash": "8b9aabac7849d72f378417f49f4be8ba",
+      "hash": "bd5b9d07513fdef8dbeb568eb7e0d4bc",
+      "size": 25328
     },
     "2026_01_02": {
-      "originalHash": "528896e9caff4685a0ed42195670eea7",
-      "hash": "746bc0572cba1593895870ccad9b02fe",
-      "size": 28256
+      "originalHash": "067ff65f38add8407a91f8db7ad64094",
+      "hash": "662c81363784b8094f3226cf3e82144c",
+      "size": 28512
     },
     "2020_01·02_01": {
       "originalHash": "3ec4e2a604605a4ff31e55be128993c1",
@@ -399,9 +399,9 @@
       "size": 46304
     },
     "2026_01_05": {
-      "originalHash": "1c8c52d8850d32e000fc5e1834c81419",
-      "hash": "da2948039adf4d4c93f19749afb51e6b",
-      "size": 26080
+      "originalHash": "cf4f90936e6ee9013bdd8c119d4592a5",
+      "hash": "5e6d473456ef7c28f97d861b823d79e8",
+      "size": 26256
     },
     "2020_04_04": {
       "originalHash": "2eae88284fea4f1b9f1d87d0e5617060",
@@ -524,9 +524,9 @@
       "size": 26208
     },
     "2026_01_04": {
-      "originalHash": "df2aee54cb9a2720f932346366442281",
-      "hash": "625922e4bf746abcbd79add4cd71ff29",
-      "size": 27616
+      "originalHash": "941c1562778332e83c4b830b071c0c1e",
+      "hash": "003730298e37318fa526b923c377ad14",
+      "size": 27744
     },
     "electrical_equipment_chapter_08": {
       "originalHash": "66dfe25da096e3303e69fccfe46ba270",
