@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-31T16:58:25.751559Z",
-  "revision": 202604010158,
+  "updatedAt": "2026-04-04T18:00:11.443236Z",
+  "revision": 202604050300,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_engineer/v4/data",
   "files": {
     "2022_02_05": {
@@ -39,9 +39,9 @@
       "size": 37968
     },
     "2018_01_03": {
-      "originalHash": "1291edae4de5f60adb5069ba778b6a98",
-      "hash": "12ef97aecb776db4b834039705751d40",
-      "size": 31680
+      "originalHash": "98ff6c86cdae3fa23bbf4b2cdb44e352",
+      "hash": "5441fa1e7949da382e4104620cf1a122",
+      "size": 31744
     },
     "2020_03_02": {
       "originalHash": "31577de93d0af970e9beffe0a7ed4eb1",
@@ -89,8 +89,8 @@
       "size": 28496
     },
     "2018_03_05": {
-      "originalHash": "a1591eb8d6d32dbb45fcccd0503731d3",
-      "hash": "e9589970bcd73b517d029723290f8404",
+      "originalHash": "d634e8c2500184507ffb0f5fb3689d24",
+      "hash": "5fb341e5fb31bd366560d3c3ac1575ed",
       "size": 20000
     },
     "2021_01_01": {
@@ -399,9 +399,9 @@
       "size": 46304
     },
     "2026_01_05": {
-      "originalHash": "987d4585bb6c49f4232e79af2fff71e4",
-      "hash": "a06162834af2fefe3cdb28f1b4830b86",
-      "size": 26192
+      "originalHash": "7cb3c5b06f8f1a508da6321982069bc5",
+      "hash": "ee2dbfd9ab9efadd87a63bac924e399b",
+      "size": 50064
     },
     "2020_04_04": {
       "originalHash": "2eae88284fea4f1b9f1d87d0e5617060",
@@ -529,9 +529,9 @@
       "size": 27744
     },
     "electrical_equipment_chapter_08": {
-      "originalHash": "66dfe25da096e3303e69fccfe46ba270",
-      "hash": "a97a2734ab5b431c44b3069918606287",
-      "size": 4592
+      "originalHash": "3d723f0c766daa3db583cac439f7e68a",
+      "hash": "dc1c0c14510e014b62d8fa036c9e9cb3",
+      "size": 448
     },
     "control_engineering_chapter_05": {
       "originalHash": "bcfce9936dcc611933d0a0fab663dc92",
@@ -559,9 +559,9 @@
       "size": 8768
     },
     "electrical_equipment_chapter_04": {
-      "originalHash": "26447dda2dff32bf3d9c416f4ef85d0f",
-      "hash": "510dfe2e2e2cc7e13d8fcd48b8dbb491",
-      "size": 2960
+      "originalHash": "286c6d34c16744e4217b0f252a943921",
+      "hash": "8581eabc0b43938b2450b9df41e87c22",
+      "size": 4112
     },
     "control_engineering_chapter_09": {
       "originalHash": "c1a891a9fa7bc4f84e45eae812ac25ca",
@@ -574,9 +574,9 @@
       "size": 3344
     },
     "electrical_equipment_chapter_05": {
-      "originalHash": "19cd17e87e7aebad651eb71c1649efd2",
-      "hash": "49d881b5c2f7efe5d31a7aeec81e8a09",
-      "size": 4064
+      "originalHash": "8905819cacbd179356e8eb5ea103751b",
+      "hash": "de3d22f5de90bdb32adfbe57e46a4d7f",
+      "size": 3232
     },
     "electromagnetics_chapter_03": {
       "originalHash": "a356ec691ed8121913290407ac92933d",
@@ -604,9 +604,9 @@
       "size": 4000
     },
     "electrical_equipment_chapter_09": {
-      "originalHash": "30f73f5431184f5a553bad57314b2875",
-      "hash": "5197af0e1672fae487f86cab12e8416a",
-      "size": 2320
+      "originalHash": "7c3f25a6757b88a46d7ab176a6219130",
+      "hash": "95e963c58340ed24fb7638ecb75a52eb",
+      "size": 416
     },
     "power_engineering_chapter_14": {
       "originalHash": "9382224dfe4d2a72110d4ee7e8e4e6ff",
@@ -614,9 +614,9 @@
       "size": 8880
     },
     "electrical_equipment_chapter_02": {
-      "originalHash": "6fd9a7018f3c0eaa9e5323ffa0257f2f",
-      "hash": "92b09598122f9242da693e92beaa0b4d",
-      "size": 4624
+      "originalHash": "24d26737bee17999a6de9cba75ef9f66",
+      "hash": "988a8065683e00f22d0f7071c5fae068",
+      "size": 8544
     },
     "power_engineering_chapter_09": {
       "originalHash": "a2b01c6d157e4dd4dfe6e8f5a8d97ea9",
@@ -704,9 +704,9 @@
       "size": 5936
     },
     "electrical_equipment_chapter_03": {
-      "originalHash": "e9dca5d330b1fc7d0a70e09ed2dd252d",
-      "hash": "f2a42659714eebd2c1090b4389c8a2d9",
-      "size": 5040
+      "originalHash": "75b46f8503c1cd8beda383a6b6609324",
+      "hash": "a297c44077128cc7b782b7153b2aec1b",
+      "size": 5744
     },
     "electromagnetics_chapter_06": {
       "originalHash": "79996c518ca52da810c1caf9f74c9ea4",
@@ -754,9 +754,9 @@
       "size": 6240
     },
     "summary_subjects": {
-      "originalHash": "fef5589f53090491d8ea0413462d31a2",
-      "hash": "2b468da3b6ccc975b6cb361f1e67867d",
-      "size": 9888
+      "originalHash": "81791f99628b357b1d32711a1e00f63a",
+      "hash": "f7ed427437fd9a4fb7b5b26487dbd2fe",
+      "size": 9504
     },
     "circuit_theory_chapter_01": {
       "originalHash": "103f751b51428c9f13f429cb64dfa788",
@@ -774,9 +774,9 @@
       "size": 7552
     },
     "electrical_equipment_chapter_01": {
-      "originalHash": "c60e0bb0a07e1fa7d7219d01e582fab6",
-      "hash": "e5620808fde82e2bd2c0db5e520ca1bd",
-      "size": 5456
+      "originalHash": "e4f406bb1b4b0a6b8a544c014572fc41",
+      "hash": "256b5672ed520e603b4dba3ec48eb6af",
+      "size": 9728
     },
     "circuit_theory_chapter_06": {
       "originalHash": "4bc62f9ffd91895a0b477d3adb77ed96",
@@ -798,15 +798,20 @@
       "hash": "611248ab7eba83bd8be5bf5d54c37187",
       "size": 5648
     },
+    "electrical_equipment_chapter_10": {
+      "originalHash": "45045406c7469a76308e0ab8fbf82da7",
+      "hash": "5d652726816cadc57d8217f96004ae0d",
+      "size": 272
+    },
     "electrical_equipment_chapter_06": {
-      "originalHash": "889021a926dac7845a18e887c668ea07",
-      "hash": "d622e8ca6e2bc3ebced08195d4a9bef2",
-      "size": 3296
+      "originalHash": "76e1365c90a72b15cabd3a65c0df4c23",
+      "hash": "bf3d42488f90c3e127ce8a156ad42d7e",
+      "size": 7744
     },
     "electrical_equipment_chapter_07": {
-      "originalHash": "37089bf36614184cd81637e7ebb9f870",
-      "hash": "2a980d16131d6c099e541248b3498645",
-      "size": 4368
+      "originalHash": "89eef29449324473cbf382b7f0aa5a3d",
+      "hash": "016e05f27ecde2434646cf848f8fc946",
+      "size": 7904
     },
     "control_engineering_chapter_10": {
       "originalHash": "50ea48c3d2591a71efdeed30815286f5",
