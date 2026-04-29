@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-23T11:19:50.855537Z",
-  "revision": 202604232019,
+  "updatedAt": "2026-04-29T20:04:07.733592Z",
+  "revision": 202604300504,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_engineer/v4/data",
   "files": {
     "2022_02_05": {
@@ -64,9 +64,9 @@
       "size": 30720
     },
     "2020_03_03": {
-      "originalHash": "8565f07577a281edee6ba85cc52c61c0",
-      "hash": "7e77ae366cdd6e1a3a98701ad180cae8",
-      "size": 34256
+      "originalHash": "5dc5e84dd48ccc426aa1d05a006a77ac",
+      "hash": "76ce3e7e84d7c8e8e46ccf486caaab34",
+      "size": 34240
     },
     "2017_03_03": {
       "originalHash": "ccae006228b653775e27b90652ad43ea",
@@ -124,9 +124,9 @@
       "size": 45024
     },
     "2017_02_05": {
-      "originalHash": "560f4a0b0b5c9ac439725d042c24aa5a",
-      "hash": "ce142e2bd508bfd8899ebdfbcad32fda",
-      "size": 19344
+      "originalHash": "1cb2ae146576adfb500e221c2c3b9459",
+      "hash": "41acad18871d57239f72a2fe85e1998c",
+      "size": 20240
     },
     "2018_03_02": {
       "originalHash": "221f8283c806d196efb9d3df5d9badf6",
@@ -249,8 +249,8 @@
       "size": 34128
     },
     "2018_03_03": {
-      "originalHash": "1c83519ebee109d696ce3b11759419de",
-      "hash": "9f353e630c0b649c53f3f0694aafdcac",
+      "originalHash": "c83b69a26b699142923e510ca596008d",
+      "hash": "1e2686275c0619e76067398654d71025",
       "size": 31520
     },
     "2017_02_04": {
@@ -324,9 +324,9 @@
       "size": 42560
     },
     "2026_01_03": {
-      "originalHash": "09fb4ac26ca4d8cc6ffa00bf59ae0600",
-      "hash": "5f6db877024f74934a483cad40ac810c",
-      "size": 25584
+      "originalHash": "2c6977169e8c70027ddaade4d80860e9",
+      "hash": "4ff49d00954f8c79634a61a37aff4a97",
+      "size": 37952
     },
     "2026_01_02": {
       "originalHash": "8b5803ee9b6e88a8f7fcc29d7a46cd5d",
@@ -359,9 +359,9 @@
       "size": 32208
     },
     "2021_02_03": {
-      "originalHash": "3d8a9f8cc5d630bbb1aa569bc39569bc",
-      "hash": "a880d85d660a3d457d6d6d568fbfbdf1",
-      "size": 33568
+      "originalHash": "b73b0521cf6db0f144378c775e3903d9",
+      "hash": "1b615e874afe34b57ea609458a68f16b",
+      "size": 33616
     },
     "2019_03_04": {
       "originalHash": "603912510381b6fafdf5ccfb9dea4904",
@@ -409,9 +409,9 @@
       "size": 30192
     },
     "2019_01_04": {
-      "originalHash": "0db2bb4732bc3449886b3bfaccea7e32",
-      "hash": "1a2d0e447836a6dc834be59714593763",
-      "size": 30288
+      "originalHash": "97c667d2ffc757221133ee68349380e0",
+      "hash": "1a7d5f80bafcf857847e17eca6f59742",
+      "size": 30192
     },
     "2019_02_02": {
       "originalHash": "33d9f29b2ec6bccb2a3abe95b44efe63",
@@ -434,9 +434,9 @@
       "size": 20672
     },
     "2019_03_03": {
-      "originalHash": "25b631d750be355d3e2d0ccfa2749bcf",
-      "hash": "cf0af411164142a8ca07bec289c6827c",
-      "size": 34848
+      "originalHash": "f1fc0c0fdf588fc73b476e802354f084",
+      "hash": "1a9d83f929f06457c327845e6939c850",
+      "size": 35840
     },
     "2016_02_04": {
       "originalHash": "aeb6480820a18b479a9ad093abe18fb1",
@@ -524,8 +524,8 @@
       "size": 26208
     },
     "2026_01_04": {
-      "originalHash": "941c1562778332e83c4b830b071c0c1e",
-      "hash": "003730298e37318fa526b923c377ad14",
+      "originalHash": "d9975ed231f378ac73e21a13c0cb84cf",
+      "hash": "9bfc1ce4d772250f3e89d09aeeaf51f7",
       "size": 27744
     },
     "electrical_equipment_chapter_08": {
@@ -1338,11 +1338,6 @@
       "hash": "4117dfb9150d4e935b208dd719c10dc2",
       "size": 19588
     },
-    "2019_01_04_068.webp": {
-      "originalHash": "85b5f1b4b6d0a4654e469afc6fee2cd9",
-      "hash": "85b5f1b4b6d0a4654e469afc6fee2cd9",
-      "size": 12744
-    },
     "2021_01_01_018.webp": {
       "originalHash": "cd6385f374f36488478e6394c8b324ec",
       "hash": "cd6385f374f36488478e6394c8b324ec",
@@ -1842,11 +1837,6 @@
       "originalHash": "8b90aa652e06e78744540f482a8a3eff",
       "hash": "8b90aa652e06e78744540f482a8a3eff",
       "size": 6436
-    },
-    "2019_01_04_067.webp": {
-      "originalHash": "d070cbe4ae16ec59e32b101140799022",
-      "hash": "d070cbe4ae16ec59e32b101140799022",
-      "size": 15790
     },
     "2021_02_04_062.webp": {
       "originalHash": "ef6548e3a3511e1bd713ed2bca8bd69f",
