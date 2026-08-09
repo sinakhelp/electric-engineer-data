@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-05T06:20:07.448230Z",
-  "revision": 202608051520,
+  "updatedAt": "2026-08-09T16:46:39.900419Z",
+  "revision": 202608100146,
   "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/electric_industrial_engineer/v4/data",
   "files": {
     "2014_03_01": {
@@ -54,9 +54,9 @@
       "size": 43344
     },
     "2020_03_02": {
-      "originalHash": "a789d3ec3d2fa5498af7540d4058ff7b",
-      "hash": "a6626ec7dff284174c5d5a286e9cf5ee",
-      "size": 45152
+      "originalHash": "61f366a45cd8f42637ee8d5bf1e0b451",
+      "hash": "46a8b4bbd3f76fc0546f47ef989ff61f",
+      "size": 46032
     },
     "2017_03_02": {
       "originalHash": "2612df697478558ba51caf5897d42c53",
