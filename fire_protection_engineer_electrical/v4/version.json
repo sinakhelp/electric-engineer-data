@@ -1,0 +1,912 @@
+{
+  "updatedAt": "2026-11-09T13:37:34.769527Z",
+  "revision": 202611092237,
+  "baseUrl": "https://sinakhelp.github.io/electric-engineer-data/fire_protection_engineer_electrical/v4/data",
+  "files": {
+    "2022_01_03": {
+      "originalHash": "1129697ee81572b029895c66f8eac039",
+      "hash": "c12e38469295c41922b4b8eaa6029331",
+      "size": 43600
+    },
+    "2020_01·02_04": {
+      "originalHash": "b31f4a49f730fd6b19b11fc31839abbe",
+      "hash": "3700f1c0255b24e96264ebb7068d0757",
+      "size": 36544
+    },
+    "2017_02_03": {
+      "originalHash": "d095be4eee134360e5f63bd3ba089377",
+      "hash": "c6f3674b24b0834b9b1d38e0ff8f9da0",
+      "size": 36944
+    },
+    "2018_01_03": {
+      "originalHash": "808a08dfaaf4454b5579295d51f92c3e",
+      "hash": "b806df6999c16d4cdb4b14ff6e095a87",
+      "size": 41392
+    },
+    "2016_04_03": {
+      "originalHash": "efcfa954d4f372361c7955d1f1ba466c",
+      "hash": "540fa3a994be5977ad145c394dae2817",
+      "size": 33504
+    },
+    "2021_04_03": {
+      "originalHash": "7677801a66a00f56b740e725e05f1b1f",
+      "hash": "c050e294618bbc87285dc70b03b37c3c",
+      "size": 36896
+    },
+    "2020_03_02": {
+      "originalHash": "7c25c2ca956699dcd82da231d3826bff",
+      "hash": "fe4bd9c3b6fcf0532ab128351ec095fc",
+      "size": 36032
+    },
+    "2018_02_04": {
+      "originalHash": "da27330971c377993f1cb1f71f8eda81",
+      "hash": "40db9fb218e483ffaa1aebb08a50c2af",
+      "size": 34432
+    },
+    "2020_03_03": {
+      "originalHash": "1bafd1dd99a47a6743a4ed657dd86af9",
+      "hash": "5810a510e2fcb3b6405d463d27f4230a",
+      "size": 38480
+    },
+    "2016_04_02": {
+      "originalHash": "388e5c4e7c3417c1419caf3dc31281e7",
+      "hash": "cfb60ef07b711f013fb2df03fd81e9dc",
+      "size": 35264
+    },
+    "2019_02_01": {
+      "originalHash": "5287c809380227f90276bfdf872947fb",
+      "hash": "be0f0db41401ac4fb8089cf8afe1a0d3",
+      "size": 38096
+    },
+    "2021_04_02": {
+      "originalHash": "65876ddb12961a86bd9b187e56daa045",
+      "hash": "65468d9bd9b8b88a406b7b0c6bec58ec",
+      "size": 38688
+    },
+    "2018_01_02": {
+      "originalHash": "73aa41e23eaa9a0a133d3a478aa5d5d7",
+      "hash": "2c3e540f3894f437061b6a46398d0053",
+      "size": 33904
+    },
+    "2017_01_04": {
+      "originalHash": "51ef978192396515077d446c7c793ff7",
+      "hash": "9b6e4d70b245e6aa6308c5076febee2f",
+      "size": 40176
+    },
+    "2019_04_04": {
+      "originalHash": "9945e8ec30eb763c84b40caef01104af",
+      "hash": "c2424d67e0f4222c75498a508324204e",
+      "size": 35936
+    },
+    "2021_01_01": {
+      "originalHash": "65b2829633ec8e83cae940e6485fb6d8",
+      "hash": "a08cf6bfb84adbcd7f53dd53543c0957",
+      "size": 34304
+    },
+    "2016_01_01": {
+      "originalHash": "482725b6edc95333018c82a5c8bd2824",
+      "hash": "2512ed25c64508f6da22ce77d9a6224c",
+      "size": 35088
+    },
+    "2017_02_02": {
+      "originalHash": "243c6032e47c9304aaf96462029782e5",
+      "hash": "6a3042f2910676d0cd58ddba749f07d1",
+      "size": 35872
+    },
+    "2018_04_01": {
+      "originalHash": "9edd8cd8d46d851d70763fd04f0d55ac",
+      "hash": "480205d58c4c790c99478cd0db72d1c0",
+      "size": 36448
+    },
+    "2022_01_02": {
+      "originalHash": "151d9db8bdbd4f7a07c035fb1be0d3ba",
+      "hash": "5803c76ce7a590f71fdcfd5fbe298608",
+      "size": 37152
+    },
+    "2022_02_04": {
+      "originalHash": "ce4d05aea390731a258a07df5a4661fc",
+      "hash": "21e25060ff65bb58739dd13eb1a51bcb",
+      "size": 36304
+    },
+    "2019_04_03": {
+      "originalHash": "1d4c78e0cd0196658e63db52c6ac141c",
+      "hash": "3bc9d4b4ec22d0354d72775dc8a39a7f",
+      "size": 36224
+    },
+    "2017_01_03": {
+      "originalHash": "28597f3219c8a99a62602932d5075b43",
+      "hash": "57c9b6f5235d03273e70ff45c28775bb",
+      "size": 38592
+    },
+    "2020_03_04": {
+      "originalHash": "227452b817422f9b09d0fb17ce28602d",
+      "hash": "e67f56832a2f785a52231022c63d002d",
+      "size": 38976
+    },
+    "2018_02_03": {
+      "originalHash": "a2202cf0ed2e2d5eb9b9d59b50744e24",
+      "hash": "b8bc43aa6a2c5f3a43710a7670b907c8",
+      "size": 41664
+    },
+    "2022_02_03": {
+      "originalHash": "c364086196083d66448d54bcefb46cd0",
+      "hash": "445df6f607d4010b92622b7e769f8646",
+      "size": 39136
+    },
+    "2020_01·02_02": {
+      "originalHash": "c60a93d8bea1f73e207df0c9da87e7d9",
+      "hash": "28f8c93855f17e4eead32404d7331949",
+      "size": 36448
+    },
+    "2020_01·02_03": {
+      "originalHash": "375d3fbbe1f55af5275157935f745807",
+      "hash": "a324e910f90f315905394abc82c7d31e",
+      "size": 38976
+    },
+    "2022_01_04": {
+      "originalHash": "405e8ec201f0acf6981265d4036b96f3",
+      "hash": "791beb9e769d247692cef3fe7a5f3176",
+      "size": 37440
+    },
+    "2022_02_02": {
+      "originalHash": "a8ad2ac4bcc2af72d0924c7357f8f082",
+      "hash": "3596f472f250d9524e82174932c738d6",
+      "size": 38320
+    },
+    "2020_04_01": {
+      "originalHash": "c82bef131aa9c4c33ca11844f207b851",
+      "hash": "7962ffb73b1febb4a1290f9a5392b486",
+      "size": 34688
+    },
+    "2017_04_01": {
+      "originalHash": "c5df8737bab3038729fc324cc19e097c",
+      "hash": "e11d9dfd203a6ad6c6a7a37d02321c27",
+      "size": 35408
+    },
+    "2018_02_02": {
+      "originalHash": "48bdd3fdac9fe5abe302ae031f8fde71",
+      "hash": "11a4d689ebadb8a98564c091b2d6ceb2",
+      "size": 38352
+    },
+    "2019_01_01": {
+      "originalHash": "610bd6b3b2153f8fd941726d0d74b2b5",
+      "hash": "3ae1c98877096dc1ddf348aa502a22f3",
+      "size": 36064
+    },
+    "2016_04_04": {
+      "originalHash": "2693a253b106bb971f53b339711f9c69",
+      "hash": "789fd6c045bfd1c9aee972880add4659",
+      "size": 36432
+    },
+    "2021_04_04": {
+      "originalHash": "e83e021bcc5dfa32b958d89461b1ee5c",
+      "hash": "da0b2d57ee02c2775dd43b9de908d045",
+      "size": 35024
+    },
+    "2018_01_04": {
+      "originalHash": "26b84bcbf263714f63ac49d331e23748",
+      "hash": "151809596c56a5346111231475076369",
+      "size": 42672
+    },
+    "2017_01_02": {
+      "originalHash": "ca8748456d5a674cc3739dc5f8a415f4",
+      "hash": "81b15a6eee82c035d1cba983a2f54015",
+      "size": 36480
+    },
+    "2021_02_01": {
+      "originalHash": "aef4997c6ce3053ffdcee3beec2236f5",
+      "hash": "91ff5dc968d7ae0cde41e9bd57758677",
+      "size": 33712
+    },
+    "2016_02_01": {
+      "originalHash": "3b1ca2344907edaa02749e990ac4853d",
+      "hash": "36dca0585cb3ca04a0ef5d5ebffe1297",
+      "size": 34848
+    },
+    "2019_04_02": {
+      "originalHash": "4da47114ce0d241caa2584baea0d6889",
+      "hash": "13c01b3d789299adac8716683b28b31c",
+      "size": 32400
+    },
+    "2017_02_04": {
+      "originalHash": "4ac68beb89dbe7809686211d3f7727ff",
+      "hash": "605d120f3653b4648d5af172f41f2063",
+      "size": 35888
+    },
+    "2018_02_01": {
+      "originalHash": "7e292ea4055abe8e1b6e9ff378794025",
+      "hash": "94ec568f84d2e79c530542b52d479de9",
+      "size": 36864
+    },
+    "2017_04_02": {
+      "originalHash": "070e9edba249176a76c63be2125c2d17",
+      "hash": "b82875d266181286e280a5f329448c7e",
+      "size": 37024
+    },
+    "2020_04_02": {
+      "originalHash": "afec17c2949062cedb9050c628056eac",
+      "hash": "1f8891855920b09a16bbf4e7419c3f44",
+      "size": 37056
+    },
+    "2019_01_02": {
+      "originalHash": "cb7d2faea7e4803ced3c782aa86fcc64",
+      "hash": "d7e578cb3ff45b7e1762aec407178803",
+      "size": 34160
+    },
+    "2019_02_04": {
+      "originalHash": "28272238842bf6bfd6b1fec1a0a7d4d8",
+      "hash": "b1901b16f290d97fa756ef8ebe7ea5a8",
+      "size": 38112
+    },
+    "2017_01_01": {
+      "originalHash": "329c2bba1392908199ae0da47c1f81ed",
+      "hash": "9bade820b4ccdf89f6ad835d370a0029",
+      "size": 34656
+    },
+    "2019_04_01": {
+      "originalHash": "3a5031802ab5d7b0bd3601ca83a04662",
+      "hash": "7bbd81866195ee2a21dfba442805f791",
+      "size": 37168
+    },
+    "2016_02_02": {
+      "originalHash": "c12897a113ee2329073eaaba01ab0439",
+      "hash": "267c47934de1f55c3c231991456fabe2",
+      "size": 33984
+    },
+    "2021_02_02": {
+      "originalHash": "72612c18bb690f5dc5fc0c22057b88d9",
+      "hash": "e1e35864c982011052ffbab65f4ea019",
+      "size": 35232
+    },
+    "2016_01_04": {
+      "originalHash": "cb38b7b26899c4d5f7e34b28bd79076f",
+      "hash": "cd1cc1a8a8fb5876f260a3258dbc8f7b",
+      "size": 35040
+    },
+    "2021_01_04": {
+      "originalHash": "b29eb4df9a87866b83a8a92f25b6acf3",
+      "hash": "f3d2eccb494b6e441939e67605b91d47",
+      "size": 37776
+    },
+    "2018_04_04": {
+      "originalHash": "20cef230f058c355fa7152d285cfd455",
+      "hash": "faa4bc258db7bf9c27353af47012e25e",
+      "size": 38400
+    },
+    "2022_02_01": {
+      "originalHash": "8da43d7d534717f36890542a83cd1adc",
+      "hash": "6998c5f453d1d10f7078b8b773b9c1e8",
+      "size": 35744
+    },
+    "2020_01·02_01": {
+      "originalHash": "2e797b4e1681c2a35fbbe7cdad44f2df",
+      "hash": "5a0841f929fd05e936531fc9d0f5c000",
+      "size": 35264
+    },
+    "2016_02_03": {
+      "originalHash": "fd50180ce5e9ba576878c0326cd78f3c",
+      "hash": "a252128b4504d5bc6c306fa227909f55",
+      "size": 32288
+    },
+    "2021_02_03": {
+      "originalHash": "c156237f291017b601bd9f71a62867ca",
+      "hash": "e08548482313ef5ae2a10fce880f0f09",
+      "size": 38288
+    },
+    "2019_01_03": {
+      "originalHash": "11c44888cbb2870686fa474b6eae0164",
+      "hash": "a0a436e235af386e98c26cf0ae3820f0",
+      "size": 38112
+    },
+    "2017_04_03": {
+      "originalHash": "d4e7978dedd6600d003f67d6d8b351c2",
+      "hash": "b2a39f3d744517d48773fcfa18305ce4",
+      "size": 36656
+    },
+    "2020_04_03": {
+      "originalHash": "88793822fe404e5b873b3848795e5197",
+      "hash": "00abb94483d3215c84f94b146099d264",
+      "size": 35728
+    },
+    "2022_01_01": {
+      "originalHash": "e38414243a092fc0b0c50067dd3b45ea",
+      "hash": "f13338d36d2fbc3dac2ed7dbb4375d05",
+      "size": 34784
+    },
+    "2017_04_04": {
+      "originalHash": "1b7ce9d193e67e2eb1c7352688ddd82b",
+      "hash": "37598d3257848ca2b10714aebc07ccd6",
+      "size": 35904
+    },
+    "2020_04_04": {
+      "originalHash": "373321efabb40f8775390958143542ec",
+      "hash": "9ab60030841f04ae0de19b017d087461",
+      "size": 37632
+    },
+    "2019_01_04": {
+      "originalHash": "440422681024646541c2bcadc34bf84c",
+      "hash": "ba6f340926682a28adeb5fce1598b9af",
+      "size": 37008
+    },
+    "2021_04_01": {
+      "originalHash": "a23297b4c7eb8e5340a3ea548408d48e",
+      "hash": "84e1efc940a6753690b0b5c57cb1e939",
+      "size": 32208
+    },
+    "2019_02_02": {
+      "originalHash": "cce7dffd2ebf5ba6c1cdfbdd142123fd",
+      "hash": "ca15e819e5844f7d6642ba8b1193aff4",
+      "size": 34736
+    },
+    "2016_04_01": {
+      "originalHash": "3f3a996efae235df6142f75e1b1b36f9",
+      "hash": "b13fad4a899a5113c594481993793903",
+      "size": 35712
+    },
+    "2018_01_01": {
+      "originalHash": "1ba9bbf6ce2aba46464863634f29799e",
+      "hash": "d59cdcfeb91d613f24359482105adcc2",
+      "size": 34352
+    },
+    "2016_02_04": {
+      "originalHash": "55f98802b5c60b202d8d508b16752de2",
+      "hash": "ae9dbfd3b31bb3a49dfa7e6d3192e114",
+      "size": 36192
+    },
+    "2021_02_04": {
+      "originalHash": "ab173c532ab26a4ff7cc487663c629fe",
+      "hash": "d80282a7093cf22d938c852b218bc579",
+      "size": 37648
+    },
+    "2016_01_02": {
+      "originalHash": "8753a4cf164dda3b3a1528bd86c198f7",
+      "hash": "124135d39aabbdde33051ac7b3ea42d5",
+      "size": 34544
+    },
+    "2021_01_02": {
+      "originalHash": "70e8f9e49dfe79ea64a2f469a28f3c6a",
+      "hash": "71cefeb60f47153911f59b6480854eef",
+      "size": 36304
+    },
+    "2018_04_02": {
+      "originalHash": "b57ae4a8406e5991b23c04769581f72b",
+      "hash": "5d2a0c6d1b635566d6fecf0ceb44f8d9",
+      "size": 35536
+    },
+    "2017_02_01": {
+      "originalHash": "f6161cb6fe0572ef29f146dade0c8b25",
+      "hash": "c629b8625ea0b716b589fe7d7e6e121d",
+      "size": 34096
+    },
+    "2018_04_03": {
+      "originalHash": "664c373c52b43dcf1fa14ff9852c436d",
+      "hash": "bd74e6c9d32fac17caff7968cf1d5585",
+      "size": 38032
+    },
+    "2016_01_03": {
+      "originalHash": "e7ec92d3134b812b7b9075a2578c956e",
+      "hash": "a3d53fb07679ad024ba9171982c620ef",
+      "size": 33792
+    },
+    "2021_01_03": {
+      "originalHash": "014d6a05d292a928b6a65d1089bc1618",
+      "hash": "b702809a4e5c4ef89da6c6e3ed99eae3",
+      "size": 38112
+    },
+    "2019_02_03": {
+      "originalHash": "84bb9a27e6764888ce703d6ae3e6e7a0",
+      "hash": "d2fddd5e9a155dad179aabcb2bbe648e",
+      "size": 33680
+    },
+    "2020_03_01": {
+      "originalHash": "ab620c45c44fc3720e64f9c46ba03fcc",
+      "hash": "cf4e9fee27306bf51fce86b0908e3fbe",
+      "size": 32368
+    },
+    "2022_01_030.png": {
+      "originalHash": "3b0a1d20251c12eed98db9f657bcd544",
+      "hash": "3b0a1d20251c12eed98db9f657bcd544",
+      "size": 19752
+    },
+    "2020_03_023.png": {
+      "originalHash": "51667622b27a13e5192a3f662dc400fb",
+      "hash": "51667622b27a13e5192a3f662dc400fb",
+      "size": 26590
+    },
+    "2020_03_037.png": {
+      "originalHash": "54a4323a3bc622a40ef46f9cec774510",
+      "hash": "54a4323a3bc622a40ef46f9cec774510",
+      "size": 14761
+    },
+    "2016_04_027.png": {
+      "originalHash": "f53e070dc9dddfe484c091e0d9987ad2",
+      "hash": "f53e070dc9dddfe484c091e0d9987ad2",
+      "size": 29734
+    },
+    "2021_04_033.png": {
+      "originalHash": "27606811d639a4f55465b14933806e03",
+      "hash": "27606811d639a4f55465b14933806e03",
+      "size": 25807
+    },
+    "2021_04_032.png": {
+      "originalHash": "e255f3f35b5b08cb5ed5f64ead2e8a2a",
+      "hash": "e255f3f35b5b08cb5ed5f64ead2e8a2a",
+      "size": 25642
+    },
+    "2018_04_029.png": {
+      "originalHash": "b92a4ef75068314ec841cd9d8ca6f406",
+      "hash": "b92a4ef75068314ec841cd9d8ca6f406",
+      "size": 16275
+    },
+    "2022_01_027.png": {
+      "originalHash": "235265d07df39f783a5beb00cc1a2464",
+      "hash": "235265d07df39f783a5beb00cc1a2464",
+      "size": 41822
+    },
+    "2017_02_031.png": {
+      "originalHash": "eb7cb8eed09c098b4497184d5457595f",
+      "hash": "eb7cb8eed09c098b4497184d5457595f",
+      "size": 13614
+    },
+    "2021_01_012_4.png": {
+      "originalHash": "7ca2bd74acb6dc78d7a653f6cdc88ef0",
+      "hash": "7ca2bd74acb6dc78d7a653f6cdc88ef0",
+      "size": 6153
+    },
+    "2021_04_025.png": {
+      "originalHash": "a0f307c51de8e5324ee22f06cbbdea70",
+      "hash": "a0f307c51de8e5324ee22f06cbbdea70",
+      "size": 27252
+    },
+    "2021_04_031.png": {
+      "originalHash": "8cd543688db32a922c0f77a2485a4336",
+      "hash": "8cd543688db32a922c0f77a2485a4336",
+      "size": 29107
+    },
+    "2022_01_032.png": {
+      "originalHash": "920830e7a42cd31133488ad77354bff8",
+      "hash": "920830e7a42cd31133488ad77354bff8",
+      "size": 18310
+    },
+    "2017_01_009_4.png": {
+      "originalHash": "a69c898e714bedd0ae85c02fe3a699b5",
+      "hash": "a69c898e714bedd0ae85c02fe3a699b5",
+      "size": 6775
+    },
+    "2018_04_038.png": {
+      "originalHash": "cfb19f1293cf42f42b3d6794f1a36d9b",
+      "hash": "cfb19f1293cf42f42b3d6794f1a36d9b",
+      "size": 21164
+    },
+    "2021_01_012_1.png": {
+      "originalHash": "8edefb3796411fe30194d0f308494ae0",
+      "hash": "8edefb3796411fe30194d0f308494ae0",
+      "size": 8170
+    },
+    "2018_01_021.png": {
+      "originalHash": "65b9e960ec80293b5b1493c6331aeb36",
+      "hash": "65b9e960ec80293b5b1493c6331aeb36",
+      "size": 24811
+    },
+    "2018_01_034.png": {
+      "originalHash": "4e983aa28a6133bb3dbcc8d0aaf52405",
+      "hash": "4e983aa28a6133bb3dbcc8d0aaf52405",
+      "size": 42598
+    },
+    "2016_01_039.png": {
+      "originalHash": "2eaddf94e0c59d235782f03d0bdd6cb7",
+      "hash": "2eaddf94e0c59d235782f03d0bdd6cb7",
+      "size": 19610
+    },
+    "2022_01_023.png": {
+      "originalHash": "5ec67e3444a37e9423f91614dc1c291c",
+      "hash": "5ec67e3444a37e9423f91614dc1c291c",
+      "size": 27480
+    },
+    "2017_02_021.png": {
+      "originalHash": "6cee6fbd33fc8ab2c6f1a1e06a51f8cd",
+      "hash": "6cee6fbd33fc8ab2c6f1a1e06a51f8cd",
+      "size": 19653
+    },
+    "2017_01_009_1.png": {
+      "originalHash": "92ac02022e98139bd9988d064ed8197c",
+      "hash": "92ac02022e98139bd9988d064ed8197c",
+      "size": 7808
+    },
+    "2017_01_009_3.png": {
+      "originalHash": "f9152c608771e5f1c1f5cc43ff3c30f0",
+      "hash": "f9152c608771e5f1c1f5cc43ff3c30f0",
+      "size": 8273
+    },
+    "2017_02_037.png": {
+      "originalHash": "8b3599a60bdaf8afc61199c452d717d3",
+      "hash": "8b3599a60bdaf8afc61199c452d717d3",
+      "size": 22756
+    },
+    "2022_01_021.png": {
+      "originalHash": "758964d8e4f4aaf31a1d02d5a814182f",
+      "hash": "758964d8e4f4aaf31a1d02d5a814182f",
+      "size": 20923
+    },
+    "2021_01_012_2.png": {
+      "originalHash": "f0d32a8172a27a9eb709863c673c98c1",
+      "hash": "f0d32a8172a27a9eb709863c673c98c1",
+      "size": 6679
+    },
+    "2020_03_026.png": {
+      "originalHash": "eef49b1e04759daf3e0c6aed82928762",
+      "hash": "eef49b1e04759daf3e0c6aed82928762",
+      "size": 14665
+    },
+    "2021_04_022.png": {
+      "originalHash": "8abb0df27812464513ca4597a44580a4",
+      "hash": "8abb0df27812464513ca4597a44580a4",
+      "size": 15120
+    },
+    "2018_01_022.png": {
+      "originalHash": "a21f4f36badc3d91c91f8014b77bf9ff",
+      "hash": "a21f4f36badc3d91c91f8014b77bf9ff",
+      "size": 58612
+    },
+    "2021_01_012_3.png": {
+      "originalHash": "de782c8379cc7593e119c53802fa1c52",
+      "hash": "de782c8379cc7593e119c53802fa1c52",
+      "size": 5178
+    },
+    "2017_02_022.png": {
+      "originalHash": "7ef31f155596a3c04f5267b3f08e528c",
+      "hash": "7ef31f155596a3c04f5267b3f08e528c",
+      "size": 20800
+    },
+    "2017_01_009_2.png": {
+      "originalHash": "0eef4e32ede699692b7aebb881b432f5",
+      "hash": "0eef4e32ede699692b7aebb881b432f5",
+      "size": 4691
+    },
+    "2018_02_030.png": {
+      "originalHash": "3ed7b676b59738902bda4de19187a146",
+      "hash": "3ed7b676b59738902bda4de19187a146",
+      "size": 9889
+    },
+    "2020_01·02_037.png": {
+      "originalHash": "622b75323878ef0476964dd5a1311975",
+      "hash": "622b75323878ef0476964dd5a1311975",
+      "size": 12986
+    },
+    "2020_01·02_023.png": {
+      "originalHash": "49c7256572ed87f776f01eb4ae4adb19",
+      "hash": "49c7256572ed87f776f01eb4ae4adb19",
+      "size": 23380
+    },
+    "2021_02_029.png": {
+      "originalHash": "1a4c4d9faec7bf80990a42dc64b258e3",
+      "hash": "1a4c4d9faec7bf80990a42dc64b258e3",
+      "size": 29874
+    },
+    "2022_02_033.png": {
+      "originalHash": "93ef0a874cc832f42b67e6f2f55b7a50",
+      "hash": "93ef0a874cc832f42b67e6f2f55b7a50",
+      "size": 42509
+    },
+    "2017_01_031.png": {
+      "originalHash": "f93045fb9f24b13ae26fd60d5ce52348",
+      "hash": "f93045fb9f24b13ae26fd60d5ce52348",
+      "size": 29857
+    },
+    "2020_01·02_076_4.png": {
+      "originalHash": "c16f9a61650882741cdd3c19836ab0ed",
+      "hash": "c16f9a61650882741cdd3c19836ab0ed",
+      "size": 1081
+    },
+    "2017_01_032.png": {
+      "originalHash": "f1a830651cfc00a78f913dce83aef6ff",
+      "hash": "f1a830651cfc00a78f913dce83aef6ff",
+      "size": 90489
+    },
+    "2022_01_079.png": {
+      "originalHash": "c4750fdba6fb5f84fa63bd22803e4b8a",
+      "hash": "c4750fdba6fb5f84fa63bd22803e4b8a",
+      "size": 20947
+    },
+    "2020_01·02_035.png": {
+      "originalHash": "ea82a1f786bab229661ee497925f2a1b",
+      "hash": "ea82a1f786bab229661ee497925f2a1b",
+      "size": 17408
+    },
+    "2019_04_023.png": {
+      "originalHash": "970ebf89e6633fb6a3649b6fd2451773",
+      "hash": "970ebf89e6633fb6a3649b6fd2451773",
+      "size": 19374
+    },
+    "2020_01·02_076_2.png": {
+      "originalHash": "9f0e8e65522fbc27aa0a51797ac8d49d",
+      "hash": "9f0e8e65522fbc27aa0a51797ac8d49d",
+      "size": 6617
+    },
+    "2020_01·02_076_3.png": {
+      "originalHash": "55904493d4fdda30b3d82a61843dc970",
+      "hash": "55904493d4fdda30b3d82a61843dc970",
+      "size": 1214
+    },
+    "2020_01·02_032.png": {
+      "originalHash": "dee0ea9e19c3cb2231ef9ade19b49ad8",
+      "hash": "dee0ea9e19c3cb2231ef9ade19b49ad8",
+      "size": 18418
+    },
+    "2018_02_021.png": {
+      "originalHash": "27b87291367a7fc6798f8ce2c82f8ee2",
+      "hash": "27b87291367a7fc6798f8ce2c82f8ee2",
+      "size": 23722
+    },
+    "2020_01·02_026.png": {
+      "originalHash": "5f0df4dbb90109e34e9c0cb5513a6aae",
+      "hash": "5f0df4dbb90109e34e9c0cb5513a6aae",
+      "size": 18067
+    },
+    "2016_02_038.png": {
+      "originalHash": "a10f53a0a74ca40c7db79ed55db59358",
+      "hash": "a10f53a0a74ca40c7db79ed55db59358",
+      "size": 44382
+    },
+    "2022_02_036.png": {
+      "originalHash": "5165ac69220faab66b652768d64a00c7",
+      "hash": "5165ac69220faab66b652768d64a00c7",
+      "size": 25226
+    },
+    "2022_02_022.png": {
+      "originalHash": "22d9a8a25657c83d5f485707161f9b48",
+      "hash": "22d9a8a25657c83d5f485707161f9b48",
+      "size": 44089
+    },
+    "2020_01·02_076_1.png": {
+      "originalHash": "7b002bfce36af2a8ce084ec2790de376",
+      "hash": "7b002bfce36af2a8ce084ec2790de376",
+      "size": 6725
+    },
+    "2022_02_023.png": {
+      "originalHash": "e3a7fec5333b2200857c862d035b15d2",
+      "hash": "e3a7fec5333b2200857c862d035b15d2",
+      "size": 22916
+    },
+    "2022_02_037.png": {
+      "originalHash": "2337b4135492d5fd25a6508c0f91ab00",
+      "hash": "2337b4135492d5fd25a6508c0f91ab00",
+      "size": 38850
+    },
+    "2016_04_040.png": {
+      "originalHash": "1bf086f6c9929bcf0a303fd6b2a455da",
+      "hash": "1bf086f6c9929bcf0a303fd6b2a455da",
+      "size": 28235
+    },
+    "2021_01_071.png": {
+      "originalHash": "6e49c851945de59bc996d7e2d78316e9",
+      "hash": "6e49c851945de59bc996d7e2d78316e9",
+      "size": 28188
+    },
+    "2017_04_021.png": {
+      "originalHash": "d00017c49c2fb0acfe38adc3ce87c300",
+      "hash": "d00017c49c2fb0acfe38adc3ce87c300",
+      "size": 12574
+    },
+    "2018_04_040.png": {
+      "originalHash": "0c3ecdd07b061a6c5b9facbe56c0b645",
+      "hash": "0c3ecdd07b061a6c5b9facbe56c0b645",
+      "size": 13221
+    },
+    "2016_01_040.png": {
+      "originalHash": "1ae095c5f7c3f860446f24fc5209e11d",
+      "hash": "1ae095c5f7c3f860446f24fc5209e11d",
+      "size": 14353
+    },
+    "2021_01_040.png": {
+      "originalHash": "34c5c8ff21158118228deeeea100408b",
+      "hash": "34c5c8ff21158118228deeeea100408b",
+      "size": 25375
+    },
+    "2016_02_034.png": {
+      "originalHash": "80af6207d5d22d3643b1b3d8b664786b",
+      "hash": "80af6207d5d22d3643b1b3d8b664786b",
+      "size": 60173
+    },
+    "2016_02_035.png": {
+      "originalHash": "6ac2eed13b679dd2cce89f25eb1b92ab",
+      "hash": "6ac2eed13b679dd2cce89f25eb1b92ab",
+      "size": 16900
+    },
+    "2020_04_036.png": {
+      "originalHash": "5d901d07a74407500fc74aff15e1f094",
+      "hash": "5d901d07a74407500fc74aff15e1f094",
+      "size": 21361
+    },
+    "2020_04_022.png": {
+      "originalHash": "e38aa0fa7d3f0a1538f95fe36ef7a0f0",
+      "hash": "e38aa0fa7d3f0a1538f95fe36ef7a0f0",
+      "size": 18595
+    },
+    "2017_04_022.png": {
+      "originalHash": "25a5400b519b2749cc6a073d0e214116",
+      "hash": "25a5400b519b2749cc6a073d0e214116",
+      "size": 16783
+    },
+    "2021_02_023.png": {
+      "originalHash": "de793eb9dca845bb265e2088e920dbf8",
+      "hash": "de793eb9dca845bb265e2088e920dbf8",
+      "size": 35971
+    },
+    "2022_02_039.png": {
+      "originalHash": "20b9cf0983d36796b25e27bd9b10b8b5",
+      "hash": "20b9cf0983d36796b25e27bd9b10b8b5",
+      "size": 26800
+    },
+    "2021_04_067.png": {
+      "originalHash": "9670e69c3431c2cce9c21565582c7235",
+      "hash": "9670e69c3431c2cce9c21565582c7235",
+      "size": 63195
+    },
+    "2020_04_023.png": {
+      "originalHash": "837e1f2581fbaf1577408e4f20de1e1c",
+      "hash": "837e1f2581fbaf1577408e4f20de1e1c",
+      "size": 29418
+    },
+    "2019_01_027.png": {
+      "originalHash": "02b07d0ee11610dd5751208716f03043",
+      "hash": "02b07d0ee11610dd5751208716f03043",
+      "size": 8994
+    },
+    "2021_02_026.png": {
+      "originalHash": "056875c661ed05132c1f0357fb97e7f4",
+      "hash": "056875c661ed05132c1f0357fb97e7f4",
+      "size": 23276
+    },
+    "2021_02_027.png": {
+      "originalHash": "6b7eda919b4bc8f5d2d1440053fc0aed",
+      "hash": "6b7eda919b4bc8f5d2d1440053fc0aed",
+      "size": 7069
+    },
+    "2019_01_032.png": {
+      "originalHash": "58aa2ddf182d011e68fc267d5e33db67",
+      "hash": "58aa2ddf182d011e68fc267d5e33db67",
+      "size": 6675
+    },
+    "2017_04_024.png": {
+      "originalHash": "0165c8d1158e9cf2e374a6b4d9253589",
+      "hash": "0165c8d1158e9cf2e374a6b4d9253589",
+      "size": 12989
+    },
+    "2021_02_025.png": {
+      "originalHash": "ae39c5a708216213b2fd8614bbe117ae",
+      "hash": "ae39c5a708216213b2fd8614bbe117ae",
+      "size": 44016
+    },
+    "2017_01_029.png": {
+      "originalHash": "55bceba2126e10bda8bf21dae5a5afdc",
+      "hash": "55bceba2126e10bda8bf21dae5a5afdc",
+      "size": 21361
+    },
+    "2021_02_024.png": {
+      "originalHash": "af75901884d35a7489ba297647e2f1b3",
+      "hash": "af75901884d35a7489ba297647e2f1b3",
+      "size": 17517
+    },
+    "2021_02_030.png": {
+      "originalHash": "138aca6ce23de0d38bb8b366d361f7e2",
+      "hash": "138aca6ce23de0d38bb8b366d361f7e2",
+      "size": 28186
+    },
+    "2017_04_031.png": {
+      "originalHash": "05710dbb38d58d74602a21f5b3da1745",
+      "hash": "05710dbb38d58d74602a21f5b3da1745",
+      "size": 8064
+    },
+    "2018_04_023.png": {
+      "originalHash": "362279be268745c0e96f4f704b87e646",
+      "hash": "362279be268745c0e96f4f704b87e646",
+      "size": 15469
+    },
+    "2022_01_039.png": {
+      "originalHash": "30d6b2a99cd25a15dd3f4ad5181f3c48",
+      "hash": "30d6b2a99cd25a15dd3f4ad5181f3c48",
+      "size": 25737
+    },
+    "2021_01_023.png": {
+      "originalHash": "bbbbd3f92c106b45a0f31cf381fbef4a",
+      "hash": "bbbbd3f92c106b45a0f31cf381fbef4a",
+      "size": 20531
+    },
+    "2019_02_036.png": {
+      "originalHash": "f96fea606486ebbb61af05374c2ad55a",
+      "hash": "f96fea606486ebbb61af05374c2ad55a",
+      "size": 34909
+    },
+    "2016_01_022.png": {
+      "originalHash": "8803f4df5489eb34a88788065b0ad730",
+      "hash": "8803f4df5489eb34a88788065b0ad730",
+      "size": 16954
+    },
+    "2017_02_038.png": {
+      "originalHash": "d0eec545be04f384cef57c5c6ced3115",
+      "hash": "d0eec545be04f384cef57c5c6ced3115",
+      "size": 13709
+    },
+    "2019_02_021.png": {
+      "originalHash": "39825c72e99699cf3f07f81e8ec9c5b0",
+      "hash": "39825c72e99699cf3f07f81e8ec9c5b0",
+      "size": 30744
+    },
+    "2019_02_035.png": {
+      "originalHash": "4936b246bdf567fbff25598239d4f80b",
+      "hash": "4936b246bdf567fbff25598239d4f80b",
+      "size": 13868
+    },
+    "2016_02_040.png": {
+      "originalHash": "24f77dd71c96af002e2ee6cb45cfca97",
+      "hash": "24f77dd71c96af002e2ee6cb45cfca97",
+      "size": 27606
+    },
+    "2018_01_039.png": {
+      "originalHash": "ea6fbe9c8e220e59c40618346fa3af91",
+      "hash": "ea6fbe9c8e220e59c40618346fa3af91",
+      "size": 51266
+    },
+    "2018_01_005.png": {
+      "originalHash": "f8b8cd6e4329e7cd5b268ad5afc7783b",
+      "hash": "f8b8cd6e4329e7cd5b268ad5afc7783b",
+      "size": 42192
+    },
+    "2016_04_038.png": {
+      "originalHash": "9bd28f608e209edbea8278611ac23007",
+      "hash": "9bd28f608e209edbea8278611ac23007",
+      "size": 11354
+    },
+    "2019_02_034.png": {
+      "originalHash": "7a0385e202c2da68c2e599b81e64e0cc",
+      "hash": "7a0385e202c2da68c2e599b81e64e0cc",
+      "size": 24572
+    },
+    "2019_02_024.png": {
+      "originalHash": "13d25d6b0f4555a36027b18fecfd4d15",
+      "hash": "13d25d6b0f4555a36027b18fecfd4d15",
+      "size": 24115
+    },
+    "2021_04_028.png": {
+      "originalHash": "ffc934f44162274e1d5c57dd10a8d7e4",
+      "hash": "ffc934f44162274e1d5c57dd10a8d7e4",
+      "size": 23465
+    },
+    "2016_01_024.png": {
+      "originalHash": "0da480af28adcabc6c6fcca50c62972c",
+      "hash": "0da480af28adcabc6c6fcca50c62972c",
+      "size": 30056
+    },
+    "2021_01_024.png": {
+      "originalHash": "ac44d0c2388c64b4fbecf168d473c0f4",
+      "hash": "ac44d0c2388c64b4fbecf168d473c0f4",
+      "size": 34261
+    },
+    "2021_01_026.png": {
+      "originalHash": "3262b8fe5384ed870a9875a78f7a9e82",
+      "hash": "3262b8fe5384ed870a9875a78f7a9e82",
+      "size": 32960
+    },
+    "2021_01_032.png": {
+      "originalHash": "4d34bd25a9a2e485518c47cfe7637a33",
+      "hash": "4d34bd25a9a2e485518c47cfe7637a33",
+      "size": 21040
+    },
+    "2019_02_026.png": {
+      "originalHash": "90048201ff214e5a1a77877c8e90e794",
+      "hash": "90048201ff214e5a1a77877c8e90e794",
+      "size": 35556
+    },
+    "2021_01_033.png": {
+      "originalHash": "cbd1340161860d4d103276af38bf77c2",
+      "hash": "cbd1340161860d4d103276af38bf77c2",
+      "size": 32738
+    },
+    "2022_01_029.png": {
+      "originalHash": "a75fdb63b21ae2dba16e909765e9b18c",
+      "hash": "a75fdb63b21ae2dba16e909765e9b18c",
+      "size": 32869
+    }
+  }
+}
